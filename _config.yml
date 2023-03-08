@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Petrus Mikkola"
 title_separator          : "-"
 name                     : &name "Petrus Mikkola"
-description              : &description "M.Sc. (Math.), M.Soc.Sci (Econ.), Doctoral candidate (ML)"
+description              : &description "Petrus's homepage"
 url                      : https://p-mikkola.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "P-Mikkola/P-Mikkola.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Petrus Mikkola"
   avatar           : "Petrus_Mikkola.png"
-  bio              : "Machine learning researcher and Bayesian enthusiast"
+  bio              : "Machine learning researcher and Bayesian enthusiast <br> M.Sc. (Math.), M.Soc.Sci (Econ.), Doctoral candidate (ML)"
   location         : "Finland"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
