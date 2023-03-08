@@ -13,7 +13,9 @@ redirect_from:
 </p>
 
 <h2>Theses</h2>
-In my <a href="https://helda.helsinki.fi/handle/10138/330731">M.Sc. thesis</a>, I studied discrete complex power functions on isoradial graphs (a natural setting for discrete complex analysis) under the supervision of Prof. <a href="https://wiki.helsinki.fi/display/mathphys/Izyurov">Konstantin Izyurov</a>. See also [M.Soc.Sci thesis](https://github.com/P-Mikkola/P-Mikkola.github.io/blob/master/files/thesis_econ.pdf) and [B.Soc.Sci thesis](https://github.com/P-Mikkola/P-Mikkola.github.io/blob/master/files/bachelor_thesis_econ.pdf).
+In my <a href="https://helda.helsinki.fi/handle/10138/330731">M.Sc. thesis</a>, I studied discrete complex power functions on isoradial graphs (a natural setting for discrete complex analysis) under the supervision of Prof. <a href="https://wiki.helsinki.fi/display/mathphys/Izyurov">Konstantin Izyurov</a>. See also [M.Soc.Sci thesis](files/thesis_econ.pdf) and [B.Soc.Sci thesis](files/bachelor_thesis_econ.pdf).
 
 <h2>Community involvement</h2>
 I have acted as a reviewer for IEEE TPAMI and AISTATS (awarded top-10% reviewer in 2023).
+
+<a href="/talkmap.html">See a map of all the places I've given a talk!</a>
