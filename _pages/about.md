@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <h2>Biography</h2>
-<p> I am a doctoral candidate under the supervision of Prof. <a href="https://people.aalto.fi/samuel.kaski">Samuel Kaski</a> in <a href="http://research.cs.aalto.fi/pml"/>Probabilistic Machine Learning</a> group at Aalto University. My research focuses on probabilistic methods for human-in-the-loop machine learning and multi-information source optimization. <u>Research topics</u>: probabilistic elicitation (knowledge elicitation, prior elicitation, and preference learning), active learning, and Bayesian optimization.
+<p> I am a doctoral candidate under the supervision of Prof. <a href="https://people.aalto.fi/samuel.kaski">Samuel Kaski</a> in <a href="http://research.cs.aalto.fi/pml">Probabilistic Machine Learning</a> group at Aalto University. My research focuses on probabilistic methods for human-in-the-loop machine learning and multi-information source optimization. <u>Research topics</u>: probabilistic elicitation (knowledge elicitation, prior elicitation, and preference learning), active learning, and Bayesian optimization.
 </p>
 
 <h2>Theses</h2>
