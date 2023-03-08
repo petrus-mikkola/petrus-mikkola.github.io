@@ -1,10 +1,11 @@
 ---
 layout: archive
-title: "Publications"
+title: #"Publications"
 permalink: /publications/
 author_profile: true
 ---
 
+<h2>Publications</h2>
 Mikkola, P., Todorović, M., Järvi, J., Rinke, P., Kaski, S. (2020). <b>Projective Preferential Bayesian Optimization</b>. <i>In Proceedings of the 37th International Conference on Machine Learning - Volume 119</i>. ICML'20. <a href="http://proceedings.mlr.press/v119/mikkola20a.html">Proceedings</a>, <a href="https://arxiv.org/abs/2002.03113">Preprint</a>, <a href="bibtex.html">BibTeX</a>, <a href="https://github.com/AaltoPML/PPBO">GitHub</a>. <br><br>
 
 Mikkola, P., Martinelli, J., Filstroff, L., Kaski, S. (2022). <b>Multi-Fidelity Bayesian Optimization with Unreliable Information Sources</b>. Accepted for publication at <i>the 26th International Conference on Artificial Intelligence and Statistics</i>. AISTATS'22. <a href="https://arxiv.org/abs/2210.13937">Preprint</a>, <a href="https://github.com/AaltoPML/rMFBO">GitHub</a>.
