@@ -11,9 +11,9 @@ title                    : "Petrus Mikkola"
 title_separator          : "-"
 name                     : &name "Petrus Mikkola"
 description              : &description "Petrus's homepage"
-url                      : https://p-mikkola.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://petrus-mikkola.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "P-Mikkola/P-Mikkola.github.io"
+repository               : "petrus-mikkola/petrus-mikkola.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "P-Mikkola"
+  github           : "petrus-mikkola"
   google_plus      :
   keybase          :
   instagram        :
