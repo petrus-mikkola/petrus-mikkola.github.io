@@ -15,7 +15,7 @@ I am a doctoral candidate under the supervision of Prof. <a href="https://people
 Before joining the group, I worked in various national research institutes (VATT, Statistics Finland, CoE in Analysis and Dynamics Research) and as a data scientist at North Nest Ventures and SkillGrower. I have a Master's degree in both Economics and Mathematics (specialising in Stochastics), both from the University of Helsinki.
 
 <h2>Applications</h2>
-I am particularly well-placed to help with the following applications of modelling and machine learning: recommender systems, user models (e.g. in edutech), sample-efficient learning, active learning, uncertainty quantification, and Bayesian calibration of soil carbon and economic models.
+I am particularly well-placed to help with the following applications: recommender systems, user models (e.g. in edutech), sample-efficient learning, active learning, uncertainty quantification, and Bayesian calibration of soil carbon and economic models.
 
 <h2>Theses</h2>
 I am currently finishing my doctoral thesis on machine learning.<br><br>
