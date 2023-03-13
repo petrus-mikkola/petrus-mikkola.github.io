@@ -12,7 +12,7 @@ redirect_from:
 I am a doctoral candidate under the supervision of Prof. <a href="https://people.aalto.fi/samuel.kaski">Samuel Kaski</a> in <a href="http://research.cs.aalto.fi/pml">Probabilistic Machine Learning</a> group at Aalto University. My research focuses on probabilistic methods for human-in-the-loop machine learning and multi-information source optimization.<br> 
 <u>Research topics</u>: probabilistic elicitation (knowledge elicitation, prior elicitation, and preference learning), active learning, and Bayesian optimization.<br>
 
-Before joining the group, I worked in various national research institutes (VATT, Statistics Finland, CoE in Analysis and Dynamics Research) and as a data scientist at North Nest Ventures and SkillGrower. I have a Master's degree in both Economics and Mathematics (specialising in Stochastics), both from the University of Helsinki.
+In my spare time, I do consulting for <a href="https://soilwatch.eu">SoilWatch</a> on the calibration and uncerainty quantification of the soil carbon models. Before joining the group, I worked as an intern at various national research institutes (VATT, Statistics Finland, CoE in Analysis and Dynamics Research) and as a data scientist at North Nest Ventures and SkillGrower. I hold a Master's degree in both Economics and Mathematics (specialised in Stochastics) from the University of Helsinki.
 
 <h2>Applications</h2>
 I am particularly well-equipped to work on the following applications: optimization problems, recommender systems, user models (e.g. in edtech), sample-efficient and active learning, uncertainty quantification, and Bayesian calibration of soil carbon and economic models.
