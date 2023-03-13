@@ -15,7 +15,7 @@ I am a doctoral candidate under the supervision of Prof. <a href="https://people
 In my spare time, I do consulting for <a href="https://soilwatch.eu">SoilWatch</a> on calibration and uncerainty quantification of soil carbon models. Before joining the group, I worked as an intern at various national research institutes (VATT, Statistics Finland, CoE in Analysis and Dynamics Research) and as a data scientist at North Nest Ventures and SkillGrower. I hold a Master's degree in both Economics and Mathematics (specialised in Stochastics) from the University of Helsinki.
 
 <h2>Applications</h2>
-I am particularly well-equipped to work on the following applications: optimization problems, recommender systems, user models (e.g. in edtech), sample-efficient and active learning, uncertainty quantification, and Bayesian calibration of soil carbon and economic models.
+I am particularly well-equipped to work on the following applications: optimization problems, sample-efficient and active learning, uncertainty quantification, tempo-spatial modelling (with Gaussian processes), Bayesian calibration of soil carbon and economic models, recommender systems, and user models (e.g. in edtech).
 
 <h2>Theses</h2>
 I am currently finishing my doctoral thesis on machine learning.<br>
