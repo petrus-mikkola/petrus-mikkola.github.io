@@ -10,12 +10,12 @@ redirect_from:
 
 <h2>Biography</h2>
 I am a doctoral candidate under the supervision of Prof. <a href="https://people.aalto.fi/samuel.kaski">Samuel Kaski</a> in <a href="http://research.cs.aalto.fi/pml">Probabilistic Machine Learning</a> group at Aalto University. My research focuses on probabilistic methods for human-in-the-loop machine learning and multi-information source optimization.<br> 
-<u>Research topics</u>: Bayesian optimization, elicitation (knowledge elicitation, prior elicitation, and preference learning), and active learning.<br>
+<u>Research topics</u>: Bayesian optimization, elicitation (knowledge elicitation, prior elicitation, and preference learning), human-AI teaming<br>
 
-In my spare time, I do consulting for <a href="https://soilwatch.eu">SoilWatch</a> on calibration and uncertainty quantification of soil carbon models. Before joining the group, I worked as an intern at various national research institutes (VATT, Statistics Finland, CoE in Analysis and Dynamics Research) and as a data scientist at North Nest Ventures and SkillGrower. I hold a Master's degree in both Economics and Mathematics (specialised in Stochastics) from the University of Helsinki.
+I have two Master's degrees, one in Mathematics (Stochastics) and one in Economics from the University of Helsinki. Before joining the group, I worked as an intern at various national research institutes (VATT, Statistics Finland, CoE in Analysis and Dynamics Research). In my spare time, I do consulting for <a href="https://soilwatch.eu">SoilWatch</a> on calibration and uncertainty quantification of soil carbon models.
 
-<h2>Applications</h2>
-I am particularly well-equipped to work on the following applications: optimization problems, sample-efficient and active learning, uncertainty quantification, tempo-spatial modelling (with Gaussian processes), Bayesian calibration of soil carbon and economic models, recommender systems, and user models (e.g. in edtech).
+<!--<h2>Applications</h2>
+I am particularly well-equipped to work on the following applications: optimization problems, sample-efficient and active learning, uncertainty quantification, Bayesian inference for complex models, recommender systems, and user modelling.-->
 
 <h2>Theses</h2>
 I am currently finishing my doctoral thesis on machine learning.<br>
