@@ -14,9 +14,6 @@ I am a doctoral candidate under the supervision of Prof. <a href="https://people
 
 Before joining the group, I worked as an intern at various national research institutes (VATT, Statistics Finland, CoE in Analysis and Dynamics Research). I have two Master's degrees, one in Mathematics (Stochastics) and one in Economics from the University of Helsinki. In my spare time, I do consulting for <a href="https://soilwatch.eu">SoilWatch</a> on calibration and uncertainty quantification of soil carbon models.
 
-<!--<h2>Applications</h2>
-I am particularly well-equipped to work on the following applications: optimization problems, sample-efficient and active learning, uncertainty quantification, Bayesian inference for complex models, recommender systems, and user modelling.-->
-
 <h2>Theses</h2>
 I am currently finishing my doctoral thesis on machine learning.<br>
 
