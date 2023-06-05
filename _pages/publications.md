@@ -8,9 +8,9 @@ author_profile: true
 <h2>Publications</h2>
 Mikkola, P., Todorović, M., Järvi, J., Rinke, P., Kaski, S. (2020). <b>Projective Preferential Bayesian Optimization</b>. <i>In Proceedings of the 37th International Conference on Machine Learning - Volume 119</i>. ICML'20. <a href="http://proceedings.mlr.press/v119/mikkola20a.html">Proceedings</a>, <a href="https://arxiv.org/abs/2002.03113">Preprint</a>, <a href="https://github.com/AaltoPML/PPBO">Code</a>. <br>
 
-Mikkola, P., Martinelli, J., Filstroff, L., Kaski, S. (2022). <b>Multi-Fidelity Bayesian Optimization with Unreliable Information Sources</b>. <i>In Proceedings of the 26th International Conference on Artificial Intelligence and Statistics - Volume 206</i>. AISTATS'23. <a href="https://proceedings.mlr.press/v206/mikkola23a.html">Proceedings</a>, <a href="https://arxiv.org/abs/2210.13937">Preprint</a>, <a href="https://github.com/AaltoPML/rMFBO">Code</a>. <br>
+Mikkola, P., Martinelli, J., Filstroff, L., Kaski, S. (2023). <b>Multi-Fidelity Bayesian Optimization with Unreliable Information Sources</b>. <i>In Proceedings of the 26th International Conference on Artificial Intelligence and Statistics - Volume 206</i>. AISTATS'23. <a href="https://proceedings.mlr.press/v206/mikkola23a.html">Proceedings</a>, <a href="https://arxiv.org/abs/2210.13937">Preprint</a>, <a href="https://github.com/AaltoPML/rMFBO">Code</a>. <br>
 
-Mikkola, P., Martin, O. A., Chandramouli, S., Hartmann, M., Abril Pla, O., Thomas, O., Pesonen, P., Corander, J., Vehtari, A., Kaski, S., Bürkner, P-C., Klami, A. (2021). <b>Prior knowledge elicitation: The past, present, and future</b>. <i>Accepted for Bayesian Analysis</i>. <a href="https://arxiv.org/abs/2112.01380">Preprint</a>.<br>
+Mikkola, P., Martin, O. A., Chandramouli, S., Hartmann, M., Abril Pla, O., Thomas, O., Pesonen, P., Corander, J., Vehtari, A., Kaski, S., Bürkner, P-C., Klami, A. (2023). <b>Prior knowledge elicitation: The past, present, and future</b>. <i>Accepted for Bayesian Analysis</i>. <a href="https://arxiv.org/abs/2112.01380">Preprint</a>.<br>
 
 <h2>Workshops and Preprints</h2>
 
