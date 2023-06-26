@@ -4,7 +4,7 @@ main:
     url: /publications/
 
   - title: "Theses"
-    url: /theses/    
+    url: /_theses/    
 
   - title: "Teaching"
     url: /teaching/    
