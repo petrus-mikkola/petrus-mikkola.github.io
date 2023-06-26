@@ -18,7 +18,7 @@ My research focuses on probabilistic methods for human-in-the-loop machine learn
 <u>Research topics</u>: Bayesian optimization, elicitation (knowledge elicitation, prior elicitation, and preference learning), human-AI teaming<br>
 
 <h2>Experience and Applications</h2>
-In the course of addressing real-world challenges and conducting research projects, I have extensively utilized a range of machine learning techniques. These include Bayesian inference, deep learning (particularly in the form of deep kernel learning), Gaussian processes, and reinforcement learning. I have worked with various applications, such as developing predictive models for real estate pricing, designing recommendation systems for EdTech product, and implementing preference learning algorithms.
+In the course of addressing real-world challenges and conducting research projects, I have utilized a range of machine learning techniques. These include Bayesian inference, deep learning (particularly in the form of deep kernel learning), Gaussian processes, and reinforcement learning. I have worked with various applications, such as developing predictive models for real estate pricing, designing recommendation systems for EdTech products, and implementing preference learning algorithms.
 
 <h2>Community involvement</h2>
 I have acted as a reviewer for IEEE TPAMI and AISTATS (awarded top-10% reviewer in 2023).
