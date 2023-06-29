@@ -12,6 +12,8 @@ Mikkola, P., Martinelli, J., Filstroff, L., Kaski, S. (2023). <b>Multi-Fidelity 
 
 Mikkola, P., Martin, O. A., Chandramouli, S., Hartmann, M., Abril Pla, O., Thomas, O., Pesonen, P., Corander, J., Vehtari, A., Kaski, S., Bürkner, P-C., Klami, A. (2023). <b>Prior knowledge elicitation: The past, present, and future</b>. <i>Bayesian Analysis</i>. <a href="https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Prior-Knowledge-Elicitation-The-Past-Present-and-Future/10.1214/23-BA1381.full">Advance publication</a>, <a href="https://arxiv.org/abs/2112.01380">Preprint</a>.<br>
 
+Khoshvishkaie, A., Mikkola, P., Murena, P-A. Kaski, S. (2023). <b>Cooperative Bayesian optimization for imperfect agents</b>. <i>Accepted for Machine Learning and Knowledge Discovery in Databases. Research Track: European Conference, ECML PKDD 2023</i>.<br>
+
 <h2>Workshops and Preprints</h2>
 
 Tiihonen, A., Filstroff, L., Mikkola, P., Lehto, E., Kaski, S., Todorović, M., Rinke, P. (2022). <b>More trustworthy Bayesian optimization of materials properties by adding human into the loop</b>. <i>NeurIPS 2022 Workshop AI4Mat</i>. <a href="https://openreview.net/forum?id=JQSzcd_Zc62">Workshop</a>.<br>
