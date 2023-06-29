@@ -20,4 +20,4 @@ My research has been centered around probabilistic methods for human-in-the-loop
 In the course of addressing real-world challenges and conducting research projects, I have utilized a range of machine learning techniques. These include Bayesian inference, deep learning (particularly in the form of deep kernel learning), Gaussian processes, and reinforcement learning. I have worked with various applications, such as developing predictive models for real estate pricing, designing recommendation systems for EdTech products, and implementing preference learning algorithms.
 
 <h2>Community involvement</h2>
-I have acted as a reviewer for IEEE TPAMI and AISTATS (awarded top-10% reviewer in 2023).
+I have acted as a reviewer for IEEE TPAMI, AISTATS2022, and AISTATS2023 (awarded top-10% reviewer).
