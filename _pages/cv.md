@@ -1,5 +1,5 @@
 ---
-layout: default #archive
+layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -44,12 +44,15 @@ Publications
   {% endfor %}</ul>
 
   {% include_relative publications.md %}
+
+  {% capture my_include %}{% include publications.md %}{% endcapture %}
+{{ my_include | markdownify }}
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+#Talks
+#======
+#  <ul>{% for post in site.talks %}
+#    {% include archive-single-talk-cv.html %}
+#  {% endfor %}</ul>
   
 Teaching
 ======
