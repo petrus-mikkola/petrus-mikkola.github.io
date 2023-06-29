@@ -16,24 +16,13 @@ Education
 * Master of Social Sciences (Economics), University of Helsinki, 2015 – 2018, GPA: 4.7/5
 * Bachelor of Social Sciences (Economics), University of Helsinki, 2013 – 2015, GPA: 4.9/5
 
-Work experience
+Research
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+My research focuses on probabilistic methods for human-in-the-loop machine learning and multi-information source optimization.<br> 
+<u>Research topics</u>: Bayesian optimization, elicitation (knowledge elicitation, prior elicitation, and preference learning), human-AI teaming<br>
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
   {% include_relative publications.md %}
 
   {% capture my_include %}{% include publications.md %}{% endcapture %}
@@ -47,10 +36,10 @@ Publications
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+ {% include_relative teaching.md %}
+
+Community involvement
 ======
-* Currently signed in to 43 different slack teams
+I have acted as a reviewer for IEEE TPAMI and AISTATS (awarded top-10% reviewer in 2023).
+  
+
