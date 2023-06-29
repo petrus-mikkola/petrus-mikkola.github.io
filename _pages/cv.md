@@ -66,6 +66,6 @@ In 2021 and 2022, I served as a teaching assistant for the course Kernel Methods
 
 Community involvement
 ======
-I have acted as a reviewer for IEEE TPAMI, AISTATS2022, and AISTATS2023 (awarded top-10% reviewer in 2023).
+I have acted as a reviewer for IEEE TPAMI, AISTATS2022, and AISTATS2023 (awarded top-10% reviewer).
   
 
