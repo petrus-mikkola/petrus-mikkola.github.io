@@ -48,8 +48,8 @@ Publications
   {% capture my_include %}{% include publications.md %}{% endcapture %}
 {{ my_include | markdownify }}
   
-#Talks
-#======
+# Talks
+# ======
 #  <ul>{% for post in site.talks %}
 #    {% include archive-single-talk-cv.html %}
 #  {% endfor %}</ul>
