@@ -31,14 +31,11 @@ My research focuses on probabilistic methods for human-in-the-loop machine learn
 
 Publications
 ======
-  {% include_relative publications.md %}
-
-  {% capture my_include %}{% include publications.md %}{% endcapture %}
-{{ my_include | markdownify }}
+#{% include_relative publications.md %}
   
 Teaching
 ======
- {% include_relative teaching.md %}
+{% include_relative teaching.md %}
 
 Community involvement
 ======
