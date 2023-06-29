@@ -29,6 +29,15 @@ Research
 My research focuses on probabilistic methods for human-in-the-loop machine learning and multi-information source optimization.<br> 
 <u>Research topics</u>: Bayesian optimization, elicitation (knowledge elicitation, prior elicitation, and preference learning), human-AI teaming<br>
 
+Work Experience
+======
+* Senior Consultant at SoilWatch (03/2023 – Present). I am currently providing consultancy on Bayesian model calibration.
+* Doctoral candidate at Aalto University (05/2019 – Present). I am a doctoral candidate under the supervision of Prof. Samuel Kaski in Probabilistic Machine Learning group at Aalto University. My thesis, “Humans as information sources in Bayesian optimization,” is scheduled for preliminary examination on August 15, 2023.
+* Research Intern at the Finnish Centre of Excellence (06/2018 – 08/2018). I studied under the supervision of Prof. Konstantin Izyurov a question concerning a branch of mathematics known as discrete complex analysis. The research was successful in the sense that we found a closed form for a multivalued complex function we were looking for.
+* Intern at Statistics Finland (05/2017 – 08/2017)
+* Intern at VATT, Institute for Economic Research (05/2016 – 08/2016)
+* Teaching assistant at The University of Helsinki (falls 2015, 2016 and 2017)
+
 Publications
 ======
 #{% include_relative publications.md %}
@@ -54,8 +63,10 @@ Teaching
 ======
 #{% include_relative teaching.md %}
 
+In 2021 and 2022, I served as a teaching assistant for the course Kernel Methods in Machine Learning. During this time, I had the privilege of supervising four Bachelor's theses for students Pyry Satama, Sasu Bruns, Marilla Malkki, and Kee Taeyoung. Additionally, I led a course from 2015 to 2017, aimed at aiding new economics students with their mathematical studies. My dedication to teaching was recognized when I was honored as the Social Scientist of the Year 2015 by Kannunvalajat, accompanied by laudatory student feedback stating, "we wouldn't survive without you.
+
 Community involvement
 ======
-I have acted as a reviewer for IEEE TPAMI and AISTATS (awarded top-10% reviewer in 2023).
+I have acted as a reviewer for IEEE TPAMI, AISTATS2022, and AISTATS2023 (awarded top-10% reviewer in 2023).
   
 
