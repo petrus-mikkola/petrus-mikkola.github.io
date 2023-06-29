@@ -26,7 +26,7 @@ Education
 
 Research
 ======
-My research focuses on probabilistic methods for human-in-the-loop machine learning and multi-information source optimization.<br> 
+My past research has focused on probabilistic methods for human-in-the-loop machine learning and multi-information source optimization.<br> 
 <u>Research topics</u>: Bayesian optimization, elicitation (knowledge elicitation, prior elicitation, and preference learning), human-AI teaming<br>
 
 Work Experience
