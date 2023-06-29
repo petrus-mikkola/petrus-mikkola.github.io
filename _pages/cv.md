@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Petrus Mikkola"
+title: "Academic CV, Petrus Mikkola"
 permalink: /cv/
 author_profile: true
 redirect_from:
