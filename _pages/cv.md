@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Petrus Mikkola"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,14 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+
+Contact
+======
+* Kajokuja 8 A 1, Finland
+* petrus.mikkola@gmail.com
+* +358400329055
+* https://petrus-mikkola.github.io
 
 Education
 ======
@@ -27,12 +35,6 @@ Publications
 
   {% capture my_include %}{% include publications.md %}{% endcapture %}
 {{ my_include | markdownify }}
-  
-# Talks
-# ======
-#  <ul>{% for post in site.talks %}
-#    {% include archive-single-talk-cv.html %}
-#  {% endfor %}</ul>
   
 Teaching
 ======
