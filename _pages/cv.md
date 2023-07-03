@@ -55,7 +55,7 @@ Filstroff, L., Sundin, I., Mikkola, P., Tiulpin, A., Kylmäoja, J., Kaski, S. (2
 Huang, D., Filstroff, L., Mikkola, P., Zheng, R., Kaski, S. (2022). <b>Bayesian Optimization Augmented with Actively Elicited Expert Knowledge</b>. <a href="https://arxiv.org/abs/2208.08742">Preprint</a>.
   
 
-<h2>Workshops and preprints</h2>
+<h2>Teaching</h2>
 
 In 2021 and 2022, I served as a teaching assistant for the course Kernel Methods in Machine Learning. During this time, I had the privilege of supervising four Bachelor's theses for students Pyry Satama, Sasu Bruns, Marilla Malkki, and Kee Taeyoung. Additionally, I led a course from 2015 to 2017, aimed at aiding new economics students with their mathematical studies. My dedication to teaching was recognized when I was honored as the Social Scientist of the Year 2015 by Kannunvalajat, accompanied by laudatory student feedback stating, "we wouldn't survive without you.
 
