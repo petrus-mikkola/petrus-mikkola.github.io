@@ -27,7 +27,7 @@ redirect_from:
 
 My research has been centered around probabilistic methods for human-in-the-loop machine learning and multi-information source optimization. The main areas of focus included Bayesian optimization, elicitation (such as knowledge elicitation, prior elicitation, and preference learning), and human-AI teaming.<br>
 
-<h2>Work experience</h2>
+<h2>Related work experience</h2>
 
 * Senior Consultant at SoilWatch (03/2023 – Present). I am currently providing consultancy on Bayesian model calibration.
 * Doctoral candidate at Aalto University (05/2019 – Present). I am a doctoral candidate under the supervision of Prof. Samuel Kaski in Probabilistic Machine Learning group at Aalto University. My thesis, “Humans as information sources in Bayesian optimization,” is scheduled for preliminary examination on August 15, 2023.
