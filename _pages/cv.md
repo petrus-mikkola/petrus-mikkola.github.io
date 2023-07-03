@@ -29,11 +29,10 @@ My research has been centered around probabilistic methods for human-in-the-loop
 
 <h2>Related work experience</h2>
 
-* Senior Consultant at SoilWatch (03/2023 – Present). I am currently providing consultancy on Bayesian model calibration.
-* Doctoral candidate at Aalto University (05/2019 – Present). I am a doctoral candidate under the supervision of Prof. Samuel Kaski in Probabilistic Machine Learning group at Aalto University. My thesis, “Humans as information sources in Bayesian optimization,” is scheduled for preliminary examination on August 15, 2023.
-* Research Intern at the Finnish Centre of Excellence (06/2018 – 08/2018). I studied under the supervision of Prof. Konstantin Izyurov a question concerning a branch of mathematics known as discrete complex analysis. The research was successful in the sense that we found a closed form for a multivalued complex function we were looking for.
-* Intern at Statistics Finland (05/2017 – 08/2017)
-* Intern at VATT, Institute for Economic Research (05/2016 – 08/2016)
+* Doctoral candidate at Aalto University (5/2019 – Present). I am a doctoral candidate under the supervision of Prof. Samuel Kaski in Probabilistic Machine Learning group at Aalto University. My thesis, “Humans as information sources in Bayesian optimization,” is scheduled for preliminary examination on August 15, 2023.
+* Research Intern at the Finnish Centre of Excellence (6/2018 – 8/2018). I studied under the supervision of Prof. Konstantin Izyurov a question concerning a branch of mathematics known as discrete complex analysis. The research was successful in the sense that we found a closed form for a multivalued complex function we were looking for.
+* Intern at Statistics Finland (5/2017 – 8/2017)
+* Intern at VATT, Institute for Economic Research (5/2016 – 8/2016)
 * Teaching assistant at The University of Helsinki (falls 2015, 2016 and 2017)
 
 <h2>Publications</h2>
