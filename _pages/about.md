@@ -17,7 +17,10 @@ Before joining the group, I worked as an intern at various national research ins
 My research has been centered around probabilistic methods for human-in-the-loop machine learning and multi-information source optimization. The main areas of focus include Bayesian optimization, elicitation (such as knowledge elicitation, prior elicitation, and preference learning), and human-AI teaming.<br>
 
 <h2>Experience and Applications</h2>
-In the course of addressing real-world challenges and conducting research projects, I have utilized a range of machine learning techniques. These include Bayesian inference, deep learning, Gaussian processes, and reinforcement learning. I have worked with various applications, such as developing predictive models for real estate pricing, designing recommendation systems for EdTech products, and implementing preference learning algorithms.
+
+The ML methods relevant to my research can be harnessed to incorporate human perspectives into machine learning systems, such as addressing AI alignment issues.
+
+Besides, I've utilized a variety of ML techniques including Bayesian methods, deep learning, Gaussian processes, and reinforcement learning. My applied experience spans diverse areas, including predictive modeling for real estate pricing, EdTech recommendation system design, and preference learning algorithms.
 
 <h2>Community involvement</h2>
 I have acted as a reviewer for IEEE TPAMI, AISTATS2022, and AISTATS2023 (awarded top-10% reviewer).
