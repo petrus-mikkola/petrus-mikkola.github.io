@@ -20,4 +20,4 @@ Tiihonen, A., Filstroff, L., Mikkola, P., Lehto, E., Kaski, S., Todorović, M., 
 
 Filstroff, L., Sundin, I., Mikkola, P., Tiulpin, A., Kylmäoja, J., Kaski, S. (2021). <b>Targeted Active Learning for Bayesian Decision-Making</b>. <a href="https://arxiv.org/abs/2106.04193">Preprint</a>.<br>
 
-Huang, D., Filstroff, L., Mikkola, P., Zheng, R., Kaski, S. (2022). <b>Bayesian Optimization Augmented with Actively Elicited Expert Knowledge</b>. <a href="https://arxiv.org/abs/2208.08742">Preprint</a>.
+Huang, D., Filstroff, L., Mikkola, P., Zheng, R., Kaski, S. (2023). <b>Augmenting Bayesian Optimization with Preference-based Expert Feedback</b>. <i>ICML 2023 Workshop "The Many Facets of Preference-Based Learning"</i>. <a href="https://icml.cc/virtual/2023/29093">Workshop</a>, <a href="https://arxiv.org/abs/2208.08742">Preprint</a>.
