@@ -9,18 +9,16 @@ redirect_from:
 ---
 
 <h2>Biography</h2>
-I was a doctoral candidate under the supervision of Prof. <a href="https://people.aalto.fi/samuel.kaski">Samuel Kaski</a> in <a href="http://research.cs.aalto.fi/pml">Probabilistic Machine Learning</a> group at Aalto University. I am expected to officially graduate in Autumn 2023 and am presently open to new work opportunities in the field of machine learning.<br> 
+I was a doctoral candidate under the supervision of Prof. <a href="https://people.aalto.fi/samuel.kaski">Samuel Kaski</a> in <a href="http://research.cs.aalto.fi/pml">Probabilistic Machine Learning</a> group at Aalto University. I am expected to officially graduate in Autumn 2023.<br> 
 
-Before joining the group, I worked as an intern at various national research institutes (VATT, Statistics Finland, University of Helsinki) and as a data scientist at two start-ups (North Nest Ventures, SkillGrower). I have two Master's degrees, one in Mathematics (Stochastics) and one in Economics from the University of Helsinki. I do consulting for <a href="https://soilwatch.eu">SoilWatch</a> on calibration and uncertainty quantification of soil carbon models.
+Prior to that, I worked as an intern at various national research institutes (VATT, Statistics Finland, University of Helsinki) and as a data scientist at two start-ups (North Nest Ventures, SkillGrower). I have two Master's degrees, one in Mathematics (Stochastics) and one in Economics from the University of Helsinki. I do consulting for <a href="https://soilwatch.eu">SoilWatch</a> on calibration and uncertainty quantification of soil carbon models.
 
 <h2>Research</h2>
-My research has been centered around probabilistic methods for human-in-the-loop machine learning and multi-information source optimization. The main areas of focus include Bayesian optimization, elicitation (such as knowledge elicitation, prior elicitation, and preference learning), and human-AI teaming.<br>
+My research centers around Bayesian machine learning and statistics, with a particular emphasis on multi-information source optimization and human-in-the-loop settings. The main areas of focus include Bayesian optimization, elicitation (such as knowledge elicitation, prior elicitation, and preference learning), and human-AI teaming.<br>
 
-<h2>Experience and Applications</h2>
+<h2>Applications</h2>
 
-The ML methods relevant to my research can be harnessed to incorporate human perspectives into machine learning systems, such as addressing AI alignment issues.
-
-Besides, I've utilized a variety of ML techniques including Bayesian methods, deep learning, Gaussian processes, and reinforcement learning. My applied experience spans diverse areas, including predictive modeling for real estate pricing, EdTech recommendation system design, and preference learning algorithms.
+The ML methods relevant to my research can be harnessed to incorporate human perspectives into machine learning systems, such as addressing AI alignment issues and designing recommender systems. In addition, Bayesian optimization can be used to solve a broad spectrum of optimization tasks involving diverse and noisy sources of data.
 
 <h2>Community involvement</h2>
 I have acted as a reviewer for IEEE TPAMI, AISTATS2022, and AISTATS2023 (awarded top-10% reviewer).
