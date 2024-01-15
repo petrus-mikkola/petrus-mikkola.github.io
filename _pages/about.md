@@ -10,7 +10,7 @@ redirect_from:
 
 <h2>Biography</h2>
 
-I am a postdoctoral researcher at University of Helsinki, working with <a href="https://www.cs.helsinki.fi/u/aklami/">Arto Klami</a> and <a href="https://lacerbi.github.io">Luigi Acerbi</a>. I was a doctoral candidate under the supervision of <a href="https://people.aalto.fi/samuel.kaski">Samuel Kaski</a> in <a href="http://research.cs.aalto.fi/pml">Probabilistic Machine Learning</a> group at Aalto University. I am expected to defend my thesis by the end of this year. <br> 
+I am a postdoctoral researcher at University of Helsinki, working with <a href="https://www.cs.helsinki.fi/u/aklami/">Arto Klami</a> and <a href="https://lacerbi.github.io">Luigi Acerbi</a>. Previously, I was a doctoral candidate at Aalto University under the supervision of <a href="https://people.aalto.fi/samuel.kaski">Samuel Kaski</a>.
 
 I have two Master's degrees, one in Mathematics (Stochastics) and one in Economics from the University of Helsinki.
 
@@ -19,7 +19,7 @@ Prior to that, I worked as an intern at various national research institutes (VA
 -->
 
 <h2>Research</h2>
-My research centers around Bayesian machine learning and statistics, with a particular emphasis on multi-information source optimization and human-in-the-loop settings. The main areas of focus include Bayesian optimization, elicitation (such as knowledge elicitation, prior elicitation, and preference learning), and human-AI teaming.<br>
+My research centers around Bayesian machine learning and statistics, with a particular emphasis on multi-information source and human-in-the-loop settings. The main areas of focus include Bayesian optimization, elicitation (knowledge elicitation, prior elicitation, preference learning), and human-AI teaming.<br>
 
 <h2>Applications</h2>
 
