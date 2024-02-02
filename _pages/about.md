@@ -10,7 +10,7 @@ redirect_from:
 
 <h2>Biography</h2>
 
-I am a postdoctoral researcher at University of Helsinki, working with <a href="https://www.cs.helsinki.fi/u/aklami/">Arto Klami</a> and <a href="https://lacerbi.github.io">Luigi Acerbi</a>. Previously, I was a doctoral candidate at Aalto University under the supervision of <a href="https://people.aalto.fi/samuel.kaski">Samuel Kaski</a>.
+I am an <a href="https://fcai.fi">FCAI</a> postdoctoral researcher at the University of Helsinki, working with <a href="https://www.cs.helsinki.fi/u/aklami/">Arto Klami</a> and <a href="https://lacerbi.github.io">Luigi Acerbi</a>. Previously, I was a doctoral candidate at Aalto University under the supervision of <a href="https://people.aalto.fi/samuel.kaski">Samuel Kaski</a>.
 
 I have two Master's degrees, one in Mathematics (Stochastics) and one in Economics from the University of Helsinki.
 
@@ -19,11 +19,13 @@ Prior to that, I worked as an intern at various national research institutes (VA
 -->
 
 <h2>Research</h2>
-My research centers around Bayesian machine learning and statistics, with a particular emphasis on multi-information source and human-in-the-loop settings. The main areas of focus include Bayesian optimization, elicitation (knowledge elicitation, prior elicitation, preference learning), and human-AI teaming.<br>
+My research centers around probabilistic machine learning, with a particular emphasis on multi-information source and human-in-the-loop settings. The main areas of focus include normalazing flows, Bayesian optimization, elicitation (knowledge elicitation, prior elicitation, preference learning), and human-AI teaming.<br>
 
+<!---
 <h2>Applications</h2>
 
 The ML methods relevant to my research can be harnessed to incorporate human perspectives into machine learning systems, such as addressing AI alignment issues and designing recommender systems. In addition, Bayesian optimization can be used to solve a broad spectrum of optimization tasks involving diverse and noisy sources of data.
+-->
 
 <h2>Community involvement</h2>
 I have acted as a reviewer for IEEE TPAMI, AISTATS2022, and AISTATS2023 (awarded top-10% reviewer).
