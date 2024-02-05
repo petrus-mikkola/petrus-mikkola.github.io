@@ -18,7 +18,7 @@ redirect_from:
 
 <h2>Education</h2>
 
-* Doctor of Science (Machine Learning), Aalto University, Machine Learning, 2019 – 2024 (expected, defense on March 28, 2024)
+* Doctor of Science (Machine Learning), Aalto University, 2019 – 2024 (expected, defense on March 28, 2024)
 * Master of Science (Mathematics/Stochastics), University of Helsinki, 2016 – 2020, GPA: 4.8/5
 * Master of Social Sciences (Economics), University of Helsinki, 2015 – 2018, GPA: 4.7/5
 * Bachelor of Social Sciences (Economics), University of Helsinki, 2013 – 2015, GPA: 4.9/5
@@ -31,7 +31,7 @@ My research centers around probabilistic machine learning, with a particular emp
 
 * Researcher at the University of Helsinki (9/2023 – present). I am a (postdoctoral) researcher at the University of Helsinki, working with Assoc. Prof. <a href="https://www.cs.helsinki.fi/u/aklami/">Arto Klami</a> and Asst. Prof. <a href="https://lacerbi.github.io">Luigi Acerbi</a>. Our work focuses on normalizing flows.
 * Doctoral candidate at Aalto University (5/2019 – 6/2023). I was a doctoral candidate under the supervision of Prof. <a href="https://people.aalto.fi/samuel.kaski">Samuel Kaski</a> in Probabilistic Machine Learning group at Aalto University. My thesis, "Humans as information sources in Bayesian optimization", was submitted to preliminary examination on August 15, 2023.
-* Research Intern at the Finnish Centre of Excellence (6/2018 – 8/2018). I studied under the supervision of Prof. <a href="https://wiki.helsinki.fi/display/mathphys/Izyurov">Konstantin Izyurov</a> a question concerning a branch of mathematics known as discrete complex analysis. The research was successful in the sense that we found a closed form for a multivalued complex function we were looking for.
+* Research Intern at the Finnish Centre of Excellence (6/2018 – 8/2018). I studied under the supervision of Prof. <a href="https://wiki.helsinki.fi/display/mathphys/Izyurov">Konstantin Izyurov</a> a question concerning a branch of mathematics known as discrete complex analysis.
 * Intern at Statistics Finland (5/2017 – 8/2017)
 * Intern at VATT, Institute for Economic Research (5/2016 – 8/2016)
 * Teaching assistant at The University of Helsinki (falls 2015, 2016 and 2017)
@@ -57,7 +57,7 @@ Huang, D., Filstroff, L., Mikkola, P., Zheng, R., Kaski, S. (2022). <b>Bayesian 
 
 <h2>Teaching</h2>
 
-In 2021 and 2022, I served as a teaching assistant for the course Kernel Methods in Machine Learning. During this time, I had the privilege of supervising four Bachelor's theses for students Pyry Satama, Sasu Bruns, Marilla Malkki, and Kee Taeyoung. Additionally, I led a course from 2015 to 2017, aimed at aiding new economics students with their mathematical studies. My dedication to teaching was recognized when I was honored as the Social Scientist of the Year 2015 by Kannunvalajat, accompanied by laudatory student feedback stating, "we wouldn't survive without you.
+In 2021 and 2022, I served as a teaching assistant for the course Kernel Methods in Machine Learning. During this time, I had the privilege of supervising four Bachelor's theses for students Pyry Satama, Sasu Bruns, Marilla Malkki, and Kee Taeyoung. Additionally, I led a course from 2015 to 2017, aimed at aiding new economics students with their mathematical studies.
 
 <h2>Community involvement</h2>
 
