@@ -11,26 +11,27 @@ redirect_from:
 
 <h2>Contact</h2>
 
-* Kajokuja 8 A 1, Finland
+* Kajokuja 8 A 1, Lohja, Finland
 * petrus.mikkola@gmail.com
 * +358400329055
 * https://petrus-mikkola.github.io
 
 <h2>Education</h2>
 
-* Doctor of Science (Machine Learning), Aalto University, Machine Learning, 2019 – 2023 (expected)
+* Doctor of Science (Machine Learning), Aalto University, Machine Learning, 2019 – 2024 (expected, defense on March 28, 2024)
 * Master of Science (Mathematics/Stochastics), University of Helsinki, 2016 – 2020, GPA: 4.8/5
 * Master of Social Sciences (Economics), University of Helsinki, 2015 – 2018, GPA: 4.7/5
 * Bachelor of Social Sciences (Economics), University of Helsinki, 2013 – 2015, GPA: 4.9/5
 
 <h2>Research</h2>
 
-My research has been centered around Bayesian methods for human-in-the-loop machine learning and multi-information source optimization. The main areas of focus include Bayesian optimization, elicitation (such as knowledge elicitation, prior elicitation, and preference learning), and human-AI teaming.<br>
+My research centers around probabilistic machine learning, with a particular emphasis on multi-information source and human-in-the-loop settings. The main areas of focus include normalazing flows, Bayesian optimization, elicitation (knowledge elicitation, prior elicitation, preference learning), and human-AI teaming.<br>
 
 <h2>Related work experience</h2>
 
-* Doctoral candidate at Aalto University (5/2019 – Present). I am a doctoral candidate under the supervision of Prof. Samuel Kaski in Probabilistic Machine Learning group at Aalto University. My thesis, “Humans as information sources in Bayesian optimization,” is scheduled for preliminary examination on August 15, 2023.
-* Research Intern at the Finnish Centre of Excellence (6/2018 – 8/2018). I studied under the supervision of Prof. Konstantin Izyurov a question concerning a branch of mathematics known as discrete complex analysis. The research was successful in the sense that we found a closed form for a multivalued complex function we were looking for.
+* Researcher at the University of Helsinki (9/2023 – present). I am a (postdoctoral) researcher at the University of Helsinki, working with Assoc. Prof. <a href="https://www.cs.helsinki.fi/u/aklami/">Arto Klami</a> and Asst. Prof. <a href="https://lacerbi.github.io">Luigi Acerbi</a>. Our work focuses on normalizing flows.
+* Doctoral candidate at Aalto University (5/2019 – 6/2023). I was a doctoral candidate under the supervision of Prof. <a href="https://people.aalto.fi/samuel.kaski">Samuel Kaski</a> in Probabilistic Machine Learning group at Aalto University. My thesis, "Humans as information sources in Bayesian optimization", was submitted to preliminary examination on August 15, 2023.
+* Research Intern at the Finnish Centre of Excellence (6/2018 – 8/2018). I studied under the supervision of Prof. <a href="https://wiki.helsinki.fi/display/mathphys/Izyurov">Konstantin Izyurov</a> a question concerning a branch of mathematics known as discrete complex analysis. The research was successful in the sense that we found a closed form for a multivalued complex function we were looking for.
 * Intern at Statistics Finland (5/2017 – 8/2017)
 * Intern at VATT, Institute for Economic Research (5/2016 – 8/2016)
 * Teaching assistant at The University of Helsinki (falls 2015, 2016 and 2017)
@@ -43,7 +44,7 @@ Mikkola, P., Martinelli, J., Filstroff, L., Kaski, S. (2023). <b>Multi-Fidelity 
 
 Mikkola, P., Martin, O. A., Chandramouli, S., Hartmann, M., Abril Pla, O., Thomas, O., Pesonen, P., Corander, J., Vehtari, A., Kaski, S., Bürkner, P-C., Klami, A. (2023). <b>Prior knowledge elicitation: The past, present, and future</b>. <i>Bayesian Analysis</i>. <a href="https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Prior-Knowledge-Elicitation-The-Past-Present-and-Future/10.1214/23-BA1381.full">Advance publication</a>, <a href="https://arxiv.org/abs/2112.01380">Preprint</a>.<br>
 
-Khoshvishkaie, A., Mikkola, P., Murena, P-A. Kaski, S. (2023). <b>Cooperative Bayesian optimization for imperfect agents</b>. <i>Accepted for Machine Learning and Knowledge Discovery in Databases. Research Track: European Conference, ECML PKDD 2023</i>.<br>
+Khoshvishkaie, A., Mikkola, P., Murena, P-A. Kaski, S. (2023). <b>Cooperative Bayesian optimization for imperfect agents</b>. <i>Machine Learning and Knowledge Discovery in Databases. Research Track: European Conference, ECML PKDD 2023</i>. <a href="https://link.springer.com/chapter/10.1007/978-3-031-43412-9_28">Proceedings</a>.<br>
 
 <h2>Workshops and preprints</h2>
 
