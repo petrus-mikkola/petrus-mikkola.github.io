@@ -19,7 +19,7 @@ Prior to that, I worked as an intern at various national research institutes (VA
 -->
 
 <h2>Research</h2>
-My research centers around probabilistic machine learning, with a particular emphasis on multi-information source and human-in-the-loop settings. The main areas of focus include normalazing flows, Bayesian optimization, elicitation (knowledge elicitation, prior elicitation, preference learning), and human-AI teaming.<br>
+My research centers around probabilistic machine learning, with a particular emphasis on multi-information source and human-in-the-loop settings. The main areas of focus include normalizing flows, Bayesian optimization, elicitation (knowledge elicitation, prior elicitation, preference learning), and human-AI teaming.<br>
 
 <!---
 <h2>Applications</h2>
