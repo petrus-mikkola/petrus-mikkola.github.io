@@ -10,9 +10,7 @@ redirect_from:
 
 <h2>Biography</h2>
 
-I am an <a href="https://fcai.fi">FCAI</a> postdoctoral researcher at the University of Helsinki, working with <a href="https://www.cs.helsinki.fi/u/aklami/">Arto Klami</a> and <a href="https://lacerbi.github.io">Luigi Acerbi</a>. Previously, I was a doctoral candidate at Aalto University under the supervision of <a href="https://people.aalto.fi/samuel.kaski">Samuel Kaski</a>.
-
-I have two Master's degrees, one in Mathematics (Stochastics) and one in Economics from the University of Helsinki.
+I am an <a href="https://fcai.fi">FCAI</a> postdoctoral researcher at the University of Helsinki, working with <a href="https://www.cs.helsinki.fi/u/aklami/">Arto Klami</a> and <a href="https://lacerbi.github.io">Luigi Acerbi</a>. I completed my PhD at Aalto University under the supervision of <a href="https://people.aalto.fi/samuel.kaski">Samuel Kaski</a>. I have two Master's degrees, one in Mathematics and one in Economics, from the University of Helsinki.
 
 <!---
 Prior to that, I worked as an intern at various national research institutes (VATT, Statistics Finland, University of Helsinki) and as a data scientist at two start-ups (North Nest Ventures, SkillGrower). I have two Master's degrees, one in Mathematics (Stochastics) and one in Economics from the University of Helsinki. I do consulting for <a href="https://soilwatch.eu">SoilWatch</a> on calibration and uncertainty quantification of soil carbon models.
@@ -32,4 +30,4 @@ The ML methods relevant to my research can be harnessed to incorporate human per
 -->
 
 <h2>Community involvement</h2>
-I have acted as a reviewer for IEEE TPAMI, AISTATS2022, and AISTATS2023 (awarded top-10% reviewer).
+I have acted as a reviewer for IEEE TPAMI, UAI, Bayesian Analysis, AISTATS2022, and AISTATS2023 (awarded top-10% reviewer).
