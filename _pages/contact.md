@@ -6,5 +6,6 @@ author_profile: true
 ---
 
 <h2>Contact information</h2>
-Email: petrus.mikkola(at)gmail.com, petrus.mikkola(at)helsinki.fi<br>
+Room: A311, Exactum, Pietari Kalmin katu 5<br>
+Email: petrus.mikkola(at)helsinki.fi<br>
 Phone: +358400329055
