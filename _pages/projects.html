@@ -22,13 +22,12 @@ permalink: /projects/
 
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-		<!-- Link to CSS files -->
-		<link rel="stylesheet" href="{{ '/assets/css/reset.css' | relative_url }}">
-		<link rel="stylesheet" href="{{ '/assets/css/reveal.css' | relative_url }}">
-		<link rel="stylesheet" href="{{ '/assets/css/theme/white.css' | relative_url }}">
+		<link rel="stylesheet" href="{{ '/projects_page/dist/reset.css' | relative_url }}">
+		<link rel="stylesheet" href="{{ '/projects_page/dist/reveal.css' | relative_url }}">
+		<link rel="stylesheet" href="{{ '/projects_page/dist/theme/white.css' | relative_url }}">
 
 		<!-- Theme used for syntax highlighted code -->
-		<link rel="stylesheet" href="{{ '/assets/css/highlight/monokai.css' | relative_url }}">
+		<link rel="stylesheet" href="{{ '/projects_page/plugin/highlight/monokai.css' | relative_url }}">
 
 		<style>
 			/* Custom font size for all slides */
@@ -92,9 +91,9 @@ permalink: /projects/
 							</div>
 							<div class="media-section">
 								<font size="-0.5">Learning expert knowledge over optimal molecules</font>
-								<video data-autoplay controls width="550" src="{{ '/assets/videos/materials_science.mp4' | relative_url }}"></video>
+								<video data-autoplay controls width="550" src="{{ '/projects_page/videos/materials_science.mp4' | relative_url }}"></video>
 								<font size="-0.5">Knowledge is represented as a Gaussian process</font>
-								<video data-autoplay controls width="550" src="{{ '/assets/videos/analyze_results.mp4' | relative_url }}"></video>
+								<video data-autoplay controls width="550" src="{{ '/projects_page/videos/analyze_results.mp4' | relative_url }}"></video>
 							</div>
 						</div>
 					</section>
@@ -112,7 +111,7 @@ permalink: /projects/
 							</div>
 							<div class="media-section">
 								<font size="-0.5">Robustness against unreliable information sources</font>
-								<img width="550" src="{{ '/assets/images/mfbo_example.png' | relative_url }}" alt="MFBO Example">
+								<img width="550" src="{{ '/projects_page/images/mfbo_example.png' | relative_url }}" alt="MFBO Example">
 								<font size="-0.5">Easy integration with <a href="https://botorch.org">BoTorch</a></font>
 								<pre data-id="code-animation"><code class="python" data-trim data-line-numbers="6"><script type="text/template">
 									model_mf = MFBO.update_model(train_x, train_obj)
@@ -143,13 +142,14 @@ permalink: /projects/
 		</div>
 
 		<!-- Scripts -->
-		<script src="{{ '/assets/js/reveal.js' | relative_url }}"></script>
-		<script src="{{ '/assets/js/zoom.js' | relative_url }}"></script>
-		<script src="{{ '/assets/js/notes.js' | relative_url }}"></script>
-		<script src="{{ '/assets/js/search.js' | relative_url }}"></script>
-		<script src="{{ '/assets/js/markdown.js' | relative_url }}"></script>
-		<script src="{{ '/assets/js/math.js' | relative_url }}"></script>
-		<script src="{{ '/assets/js/highlight.js' | relative_url }}"></script>
+		<script src="{{ '/projects_page/dist/reveal.js' | relative_url }}"></script>
+		<script src="{{ '/projects_page/plugin/zoom/zoom.js' | relative_url }}"></script>
+		<script src="{{ '/projects_page/plugin/notes/notes.js' | relative_url }}"></script>
+		<script src="{{ '/projects_page/plugin/search/search.js' | relative_url }}"></script>
+		<script src="{{ '/projects_page/plugin/markdown/markdown.js' | relative_url }}"></script>
+		<script src="{{ '/projects_page/plugin/math/math.js' | relative_url }}"></script>
+		<script src="{{ '/projects_page/plugin/highlight/highlight.js' | relative_url }}"></script>
+
 		<script>
 
 			// Also available as an ES module, see:
