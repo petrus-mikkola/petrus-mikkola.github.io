@@ -5,159 +5,165 @@ permalink: /projects/
 ---
 
 <!-- Content for the Projects page -->
-<head>
-	<meta charset="utf-8">
 
-	<title>Projects</title>
 
-	<meta name="description" content="Projects">
-	<meta name="author" content="Petrus Mikkola">
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
 
-	<meta name="apple-mobile-web-app-capable" content="yes">
-	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+		<title>Projects</title>
 
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="description" content="Projects">
+		<meta name="author" content="Petrus Mikkola">
 
-	<link rel="stylesheet" href="dist/reset.css">
-	<link rel="stylesheet" href="dist/reveal.css">
-	<link rel="stylesheet" href="dist/theme/white.css">
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 
-	<!-- Theme used for syntax highlighted code -->
-	<link rel="stylesheet" href="plugin/highlight/monokai.css">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-	<style>
-		/* Custom font size for all slides */
-		.reveal section {
-		  font-size: 20px; /* Set your desired font size */
-		}
+		<!-- Link to CSS files -->
+		<link rel="stylesheet" href="{{ '/assets/css/reset.css' | relative_url }}">
+		<link rel="stylesheet" href="{{ '/assets/css/reveal.css' | relative_url }}">
+		<link rel="stylesheet" href="{{ '/assets/css/theme/white.css' | relative_url }}">
 
-		body {
-			margin: 0;
-			padding: 0;
-			font-family: Arial, sans-serif;
-			height: 100vh; /* Ensure the body takes full height of the viewport */
-		}
+		<!-- Theme used for syntax highlighted code -->
+		<link rel="stylesheet" href="{{ '/assets/css/highlight/monokai.css' | relative_url }}">
 
-		.container {
-			display: flex;
-			height: 100vh; /* Full viewport height */
-		}
+		<style>
+			/* Custom font size for all slides */
+			.reveal section {
+			  font-size: 20px; /* Set your desired font size */
+			}
 
-		.text-section {
-			flex: 1; /* Takes up half of the container width */
-			padding: 20px;
-			text-align: left; /* Aligns text to the left */
-			display: flex;
-			flex-direction: column;
-			justify-content: flex-start; /* Aligns content to the top */
-		}
+			body {
+				margin: 0;
+				padding: 0;
+				font-family: Arial, sans-serif;
+				height: 100vh; /* Ensure the body takes full height of the viewport */
+			}
 
-		.media-section {
-			flex: 1; /* Takes up half of the container width */
-			display: flex;
-			flex-direction: column; /* Stacks images vertically */
-			justify-content: flex-start; /* Aligns content to the top */
-			align-items: center;
-			padding: 20px; /* Optional: adds padding around the images */
-		}
+			.container {
+				display: flex;
+				height: 100vh; /* Full viewport height */
+			}
 
-	</style>
-	
-</head>
-<body>
-	<div class="reveal">
-		<div class="slides">
+			.text-section {
+				flex: 1; /* Takes up half of the container width */
+				padding: 20px;
+				text-align: left; /* Aligns text to the left */
+				display: flex;
+				flex-direction: column;
+				justify-content: flex-start; /* Aligns content to the top */
+			}
 
-			<!-- <section data-background-image="examples/assets/1stpageimage.png"> -->
-			<section>
+			.media-section {
+				flex: 1; /* Takes up half of the container width */
+				display: flex;
+				flex-direction: column; /* Stacks images vertically */
+				justify-content: flex-start; /* Aligns content to the top */
+				align-items: center;
+				padding: 20px; /* Optional: adds padding around the images */
+			}
+
+		</style>
+		
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+
 				<section>
-					<h2>Selected Projects</h2>
-					<p>Scroll down to explore projects with practical outcomes designed to tackle real-world challenges.</p>
-				</section>
-				<section>
-					<div class="container">
-						<div class="text-section">
-							<h2>Projective Preferential Bayesian Optimization</h2>
-							<span><a href="http://proceedings.mlr.press/v119/mikkola20a.html">Paper</a>, <a href="https://github.com/AaltoPML/PPBO">Code</a></span>
-							<p>The project studied a new type of Bayesian optimization for learning user preferences or knowledge in high-dimensional spaces. The user provides input by choosing the preferred option using a slider. 
-								The method is able to find the minimum of a high-dimensional black-box function, a task that is often infeasible for existing preferential Bayesian optimization frameworks based on pairwise comparisons. Some applications:</p>
-							<ul>
-								<li><b>Preference learning</b> with an order of magnitude fewer questions than classical pairwise comparison-based methods</li>
-								<li><b>Expert knowledge elicitation</b> with outcome that can be used to, for example, speed up downstream optimization tasks</li>
-							 </ul>
+					<section>
+						<h2>Selected Projects</h2>
+						<p>Scroll down to explore projects with practical outcomes designed to tackle real-world challenges.</p>
+					</section>
+					<section>
+						<div class="container">
+							<div class="text-section">
+								<h2>Projective Preferential Bayesian Optimization</h2>
+								<span><a href="http://proceedings.mlr.press/v119/mikkola20a.html">Paper</a>, <a href="https://github.com/AaltoPML/PPBO">Code</a></span>
+								<p>The project studied a new type of Bayesian optimization for learning user preferences or knowledge in high-dimensional spaces. The user provides input by choosing the preferred option using a slider. 
+									The method is able to find the minimum of a high-dimensional black-box function, a task that is often infeasible for existing preferential Bayesian optimization frameworks based on pairwise comparisons. Some applications:</p>
+								<ul>
+									<li><b>Preference learning</b> with an order of magnitude fewer questions than classical pairwise comparison-based methods</li>
+									<li><b>Expert knowledge elicitation</b> with outcome that can be used to, for example, speed up downstream optimization tasks</li>
+								 </ul>
+							</div>
+							<div class="media-section">
+								<font size="-0.5">Learning expert knowledge over optimal molecules</font>
+								<video data-autoplay controls width="550" src="{{ '/assets/videos/materials_science.mp4' | relative_url }}"></video>
+								<font size="-0.5">Knowledge is represented as a Gaussian process</font>
+								<video data-autoplay controls width="550" src="{{ '/assets/videos/analyze_results.mp4' | relative_url }}"></video>
+							</div>
 						</div>
-						<div class="media-section">
-							<font size="-0.5">Learning expert knowledge over optimal molecules</font>
-							<video data-autoplay controls width="550" src="examples/assets/materials_science.mp4"></video>
-							<font size="-0.5">Knowledge is represented as a Gaussian process</font>
-							<video data-autoplay controls width="550" src="examples/assets/analyze_results.mp4"></video>
-						</div>
-					</div>
-				</section>
-				<section>
-					<div class="container">
-						<div class="text-section">
-							<h2>Multi-Fidelity Bayesian Optimization with Unreliable Information Sources</h2>
-							<span><a href="https://proceedings.mlr.press/v206/mikkola23a.html">Paper</a>, <a href="https://github.com/AaltoPML/rMFBO">Code</a></span>
-							<p> Multi-fidelity Bayesian optimization (MFBO) integrates cheaper, lower-fidelity approximations of the objective function into the optimization process. 
-								The project introduces rMFBO (robust MFBO), a methodology to make any MFBO algortihm robust to the addition of unreliable information sources. Some applications:</p>
-							<ul>
-								<li><b>Utilizing information sources</b> of uncertain accuracy to accelerate optimization problems</li>
-								<li><b>Incorporating human input</b> as an information source while ensuring it doesn't negatively impact optimization</li>
-							 </ul>
-						</div>
-						<div class="media-section">
-							<font size="-0.5">Robustness against unreliable information sources</font>
-							<img width="550" src="examples/assets/mfbo_example.pdf"></img>
-							<font size="-0.5">Easy integration with <a href="https://botorch.org">BoTorch</a></font>
-							<pre data-id="code-animation"><code class="python" data-trim data-line-numbers="6"><script type="text/template">
-								model_mf = MFBO.update_model(train_x, train_obj)
-								model_sf = MFBO.update_model(train_x_sf, train_obj_sf)
-								while budget > 0:
-									x_sf = MFBO.optimize_alpha(model_sf)
-									sigma = torch.sqrt(model_mf.posterior(x_sf).variance).item()
-									if sigma <= cond_var:
-										x_mf = MFBO.optimize_alpha(model_mf)
-										_, new_obj, cost = x_obj_cost(x_mf, cost_model, problem, ndim)
-										train_x, train_obj = augment_data(x_mf, new_obj, train_x, train_obj)
-										model_mf = MFBO.update_model(train_x, train_obj)
-										train_x_sf, train_obj_sf = augment_data(...)
-									else:
-										_, new_obj, cost = x_obj_cost(x_sf, cost_model, problem, ndim)
-										train_x, train_obj, train_x_sf, train_obj_sf = augment_data(...)
-									budget -= cost.item()
+					</section>
+					<section>
+						<div class="container">
+							<div class="text-section">
+								<h2>Multi-Fidelity Bayesian Optimization with Unreliable Information Sources</h2>
+								<span><a href="https://proceedings.mlr.press/v206/mikkola23a.html">Paper</a>, <a href="https://github.com/AaltoPML/rMFBO">Code</a></span>
+								<p> Multi-fidelity Bayesian optimization (MFBO) integrates cheaper, lower-fidelity approximations of the objective function into the optimization process. 
+									The project introduces rMFBO (robust MFBO), a methodology to make any MFBO algorithm robust to the addition of unreliable information sources. Some applications:</p>
+								<ul>
+									<li><b>Utilizing information sources</b> of uncertain accuracy to accelerate optimization problems</li>
+									<li><b>Incorporating human input</b> as an information source while ensuring it doesn't negatively impact optimization</li>
+								 </ul>
+							</div>
+							<div class="media-section">
+								<font size="-0.5">Robustness against unreliable information sources</font>
+								<img width="550" src="{{ '/assets/images/mfbo_example.png' | relative_url }}" alt="MFBO Example">
+								<font size="-0.5">Easy integration with <a href="https://botorch.org">BoTorch</a></font>
+								<pre data-id="code-animation"><code class="python" data-trim data-line-numbers="6"><script type="text/template">
 									model_mf = MFBO.update_model(train_x, train_obj)
-									train_obj_sf = MFBO.update_pseudo_samples(...)
 									model_sf = MFBO.update_model(train_x_sf, train_obj_sf)
-							</script></code></pre>
+									while budget > 0:
+										x_sf = MFBO.optimize_alpha(model_sf)
+										sigma = torch.sqrt(model_mf.posterior(x_sf).variance).item()
+										if sigma <= cond_var:
+											x_mf = MFBO.optimize_alpha(model_mf)
+											_, new_obj, cost = x_obj_cost(x_mf, cost_model, problem, ndim)
+											train_x, train_obj = augment_data(x_mf, new_obj, train_x, train_obj)
+											model_mf = MFBO.update_model(train_x, train_obj)
+											train_x_sf, train_obj_sf = augment_data(...)
+										else:
+											_, new_obj, cost = x_obj_cost(x_sf, cost_model, problem, ndim)
+											train_x, train_obj, train_x_sf, train_obj_sf = augment_data(...)
+										budget -= cost.item()
+										model_mf = MFBO.update_model(train_x, train_obj)
+										train_obj_sf = MFBO.update_pseudo_samples(...)
+										model_sf = MFBO.update_model(train_x_sf, train_obj_sf)
+								</script></code></pre>
+							</div>
 						</div>
-					</div>
+					</section>
 				</section>
-			</section>
 
+			</div>
 		</div>
-	</div>
 
-	<script src="dist/reveal.js"></script>
-	<script src="plugin/zoom/zoom.js"></script>
-	<script src="plugin/notes/notes.js"></script>
-	<script src="plugin/search/search.js"></script>
-	<script src="plugin/markdown/markdown.js"></script>
-	<script src="plugin/math/math.js"></script>
-	<script src="plugin/highlight/highlight.js"></script>
-	<script>
+		<!-- Scripts -->
+		<script src="{{ '/assets/js/reveal.js' | relative_url }}"></script>
+		<script src="{{ '/assets/js/zoom.js' | relative_url }}"></script>
+		<script src="{{ '/assets/js/notes.js' | relative_url }}"></script>
+		<script src="{{ '/assets/js/search.js' | relative_url }}"></script>
+		<script src="{{ '/assets/js/markdown.js' | relative_url }}"></script>
+		<script src="{{ '/assets/js/math.js' | relative_url }}"></script>
+		<script src="{{ '/assets/js/highlight.js' | relative_url }}"></script>
+		<script>
 
-		// Also available as an ES module, see:
-		// https://revealjs.com/initialization/
-		Reveal.initialize({
-			controls: true,
-			progress: true,
-			center: true,
-			hash: true,
+			// Also available as an ES module, see:
+			// https://revealjs.com/initialization/
+			Reveal.initialize({
+				controls: true,
+				progress: true,
+				center: true,
+				hash: true,
 
-			// Learn about plugins: https://revealjs.com/plugins/
-			plugins: [ RevealZoom, RevealNotes, RevealSearch, RevealMarkdown, RevealHighlight, RevealMath.KaTeX ]
-		});
+				// Learn about plugins: https://revealjs.com/plugins/
+				plugins: [ RevealZoom, RevealNotes, RevealSearch, RevealMarkdown, RevealHighlight, RevealMath.KaTeX ]
+			});
 
-	</script>
-</body>
+		</script>
+	</body>
+</html>
