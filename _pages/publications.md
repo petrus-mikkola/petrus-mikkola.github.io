@@ -14,10 +14,10 @@ Mikkola, P., Martin, O. A., Chandramouli, S., Hartmann, M., Abril Pla, O., Thoma
 
 Khoshvishkaie, A., Mikkola, P., Murena, P-A. Kaski, S. (2023). <b>Cooperative Bayesian optimization for imperfect agents</b>. <i>Machine Learning and Knowledge Discovery in Databases. Research Track: European Conference, ECML PKDD 2023</i>. <a href="https://link.springer.com/chapter/10.1007/978-3-031-43412-9_28">Proceedings</a>.<br>
 
-<h2>Workshops and Preprints</h2>
+Filstroff, L., Sundin, I., Mikkola, P., Tiulpin, A., Kylmäoja, J., Kaski, S. (2024). <b>Targeted Active Learning for Bayesian Decision-Making</b>. <i>Transactions on Machine Learning Research</i>. <a href="https://openreview.net/pdf?id=KxPjuiMgmm">Paper</a>.<br>
+
+<h2>Workshops</h2>
 
 Tiihonen, A., Filstroff, L., Mikkola, P., Lehto, E., Kaski, S., Todorović, M., Rinke, P. (2022). <b>More trustworthy Bayesian optimization of materials properties by adding human into the loop</b>. <i>NeurIPS 2022 Workshop AI4Mat</i>. <a href="https://openreview.net/forum?id=JQSzcd_Zc62">Workshop</a>.<br>
-
-Filstroff, L., Sundin, I., Mikkola, P., Tiulpin, A., Kylmäoja, J., Kaski, S. (2021). <b>Targeted Active Learning for Bayesian Decision-Making</b>. <a href="https://arxiv.org/abs/2106.04193">Preprint</a>.<br>
 
 Huang, D., Filstroff, L., Mikkola, P., Zheng, R., Kaski, S. (2023). <b>Augmenting Bayesian Optimization with Preference-based Expert Feedback</b>. <i>ICML 2023 Workshop "The Many Facets of Preference-Based Learning"</i>. <a href="https://icml.cc/virtual/2023/29093">Workshop</a>, <a href="https://arxiv.org/abs/2208.08742">Preprint</a>.
