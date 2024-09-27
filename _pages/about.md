@@ -17,7 +17,7 @@ Prior to that, I worked as an intern at various national research institutes (VA
 -->
 
 <h2>Research</h2>
-My research centers around probabilistic deep learning, with a particular emphasis on human-in-the-loop settings. The main areas of focus include normalizing flows, Bayesian optimization, and elicitation (knowledge/prior elicitation, preference learning).<br>
+My research focuses on probabilistic deep learning, particularly in learning from human data. Key areas include normalizing flows, Bayesian optimization, and elicitation (knowledge/prior elicitation, preference learning).<br>
 
 
 <!---
