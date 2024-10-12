@@ -97,14 +97,15 @@ layout: none
 								<span><a href="---">Paper</a>, <a href="https://github.com/petrus-mikkola/prefflow">Code</a></span>
 								<p>The project introduces a novel method for eliciting probability densities as normalizing flows using only preference data. Some applications:</p>
 								<ul>
-									<li><b>Learning probabilistic models from preference data</b>, where the model can be almost any normalizing flow architecture</li>
+									<li><b>Learning probabilistic models from preference data</b> where the model can be almost any normalizing flow architecture</li>
 									<li><b>Elicitation</b> by only asking the expert to compare events and choose which one is most probable</li>
-									<li><b>Probabilistic reward modelling</b>, where the learned reward model outputs the probability of an event being the most preferred</li>
+									<li><b>Probabilistic reward modelling</b> where the learned reward model outputs the probability of an event being the most preferred</li>
 								 </ul>
 							</div>
 							<div class="media-section">
 								<font size="-0.5">Learning the belief density (contour) as normalizing flow (heatmap) from rankings (numbers)</font>
 								<video data-autoplay controls width="550" src="{{ '/projects_page/videos/prefflow_demo.mov' | relative_url }}"></video>
+								<br>
 								<font size="-0.5">Easy integration with <a href="https://github.com/VincentStimper/normalizing-flows">normflows</a></font>
 								<pre data-id="code-animation"><code class="python" data-trim data-line-numbers="3,4,5"><script type="text/template">
 									import normflows as nf
@@ -117,7 +118,7 @@ layout: none
 										    batch = minibatch(dataset,batch_size,ranking)
 										    #Update flow parameters
 										    optimizer_prefflow.zero_grad()
-										    loss = -prefflow.logposterior(batch,cfg.modelparams.weightprior)
+										    loss = -prefflow.logposterior(batch)
 										    if ~(torch.isnan(loss) | torch.isinf(loss)):
 										        loss.backward()
 										        optimizer_prefflow.step()
