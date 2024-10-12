@@ -103,10 +103,25 @@ layout: none
 								 </ul>
 							</div>
 							<div class="media-section">
-								<font size="-0.5">---</font>
-								<video data-autoplay controls width="550" src="{{ '/projects_page/videos/materials_science.mp4' | relative_url }}"></video>
-								<font size="-0.5">---</font>
-								<video data-autoplay controls width="550" src="{{ '/projects_page/videos/analyze_results.mp4' | relative_url }}"></video>
+								<font size="-0.5">Learning the belief density (contour) as normalizing flow (heatmap) from rankings (numbers)</font>
+								<video data-autoplay controls width="550" src="{{ '/projects_page/videos/prefflow_demo.mov' | relative_url }}"></video>
+								<font size="-0.5">Easy integration with <a href="https://github.com/VincentStimper/normalizing-flows">normflows</a></font>
+								<pre data-id="code-animation"><code class="python" data-trim data-line-numbers="3,4,5"><script type="text/template">
+									import normflows as nf
+									from prefflow import PrefFlow
+									q0 = nf.distributions.DiagGaussian(D, trainable=False)
+									nfm = NeuralSplineFlow(nflows,D,q0)
+									prefflow = PrefFlow(nfm,D=D,s=1.0)
+									for it in tqdm(range(max_iter)):
+										    #Sample minibacth
+										    batch = minibatch(dataset,batch_size,ranking)
+										    #Update flow parameters
+										    optimizer_prefflow.zero_grad()
+										    loss = -prefflow.logposterior(batch,cfg.modelparams.weightprior)
+										    if ~(torch.isnan(loss) | torch.isinf(loss)):
+										        loss.backward()
+										        optimizer_prefflow.step()
+								</script></code></pre>
 							</div>
 						</div>
 					</section>
