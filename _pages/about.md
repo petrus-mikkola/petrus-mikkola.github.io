@@ -17,7 +17,7 @@ Prior to that, I worked as an intern at various national research institutes (VA
 -->
 
 <h2>Research</h2>
-My research focuses on probabilistic deep learning, particularly in learning from human data. Key areas include normalizing flows, Bayesian optimization, and elicitation (knowledge/prior elicitation, preference learning).<br>
+My research currently focuses on probabilistic deep learning, particularly on learning from human data. Key areas include normalizing flows, Bayesian optimization, and elicitation (knowledge/prior elicitation, preference learning).<br>
 
 
 <!---
@@ -27,4 +27,4 @@ The ML methods relevant to my research can be harnessed to incorporate human per
 -->
 
 <h2>Community involvement</h2>
-I have acted as a reviewer for IEEE TPAMI, UAI, Bayesian Analysis, AISTATS2022, and AISTATS2023 (awarded top-10% reviewer).
+I have acted as a reviewer for AISTATS (awarded top-10% reviewer), Bayesian Analysis, UAI, TMLR, and IEEE TPAMI.
