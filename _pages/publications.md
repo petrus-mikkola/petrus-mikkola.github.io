@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <h2>Accepted</h2>
-Mikkola, P., Acerbi, L, Klami, A. (2024). <b>Projective Preferential Bayesian Optimization</b>. <i>38th Conference on Neural Information Processing Systems</i>. NeurIPS'24. <a href="https://arxiv.org/abs/2410.08710">Preprint</a>, <a href="https://github.com/petrus-mikkola/prefflow">Code</a>. <br>
+Mikkola, P., Acerbi, L, Klami, A. (2024). <b>Preferential Normalizing Flows</b>. <i>38th Conference on Neural Information Processing Systems</i>. NeurIPS'24. <a href="https://arxiv.org/abs/2410.08710">Preprint</a>, <a href="https://github.com/petrus-mikkola/prefflow">Code</a>. <br>
 
 
 <h2>Publications</h2>
