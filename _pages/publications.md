@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+<h2>Accepted</h2>
+Mikkola, P., Acerbi, L, Klami, A. (2024). <b>Projective Preferential Bayesian Optimization</b>. <i>38th Conference on Neural Information Processing Systems</i>. NeurIPS'24. <a href="https://arxiv.org/abs/2410.08710">Preprint</a>, <a href="https://github.com/petrus-mikkola/prefflow">Code</a>. <br>
+
+
 <h2>Publications</h2>
 Mikkola, P., Todorović, M., Järvi, J., Rinke, P., Kaski, S. (2020). <b>Projective Preferential Bayesian Optimization</b>. <i>In Proceedings of the 37th International Conference on Machine Learning - Volume 119</i>. ICML'20. <a href="http://proceedings.mlr.press/v119/mikkola20a.html">Proceedings</a>, <a href="https://arxiv.org/abs/2002.03113">Preprint</a>, <a href="https://github.com/AaltoPML/PPBO">Code</a>. <br>
 
