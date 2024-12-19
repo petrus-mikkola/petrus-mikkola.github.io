@@ -17,7 +17,7 @@ Prior to that, I worked as an intern at various national research institutes (VA
 -->
 
 <h2>Research</h2>
-My research currently focuses on probabilistic deep learning, particularly on learning from human data. Key areas include normalizing flows, Bayesian optimization, and elicitation (knowledge/prior elicitation, preference learning).<br>
+My research currently focuses on probabilistic deep learning, particularly on learning from human data. Key areas include diffusion models, flows, elicitation (knowledge/prior elicitation, preference learning), and Bayesian optimization. <br>
 
 
 <!---
@@ -26,5 +26,7 @@ My research currently focuses on probabilistic deep learning, particularly on le
 The ML methods relevant to my research can be harnessed to incorporate human perspectives into machine learning systems, such as addressing AI alignment issues and designing recommender systems. In addition, Bayesian optimization can be used to solve a broad spectrum of optimization tasks involving diverse and noisy sources of data.
 -->
 
+<!---
 <h2>Community involvement</h2>
 I have acted as a reviewer for AISTATS (awarded top-10% reviewer), Bayesian Analysis, UAI, TMLR, and IEEE TPAMI.
+-->
