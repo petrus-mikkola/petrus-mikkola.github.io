@@ -5,11 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-<h2>Accepted</h2>
-Mikkola, P., Acerbi, L, Klami, A. (2024). <b>Preferential Normalizing Flows</b>. <i>38th Conference on Neural Information Processing Systems</i>. NeurIPS'24. <a href="https://arxiv.org/abs/2410.08710">Preprint</a>, <a href="https://github.com/petrus-mikkola/prefflow">Code</a>. <br>
-
-
 <h2>Publications</h2>
+
+Mikkola, P., Acerbi, L, Klami, A. (2024). <b>Preferential Normalizing Flows</b>. <i>Advances in Neural Information Processing Systems  - Volume 37</i>. NeurIPS'24. <a href="https://papers.nips.cc/paper_files/paper/2024/hash/64e2449d74f84e5b1a5c96ba7b3d308e-Abstract-Conference.html">Proceedings</a>, <a href="https://arxiv.org/abs/2410.08710">Preprint</a>, <a href="https://github.com/petrus-mikkola/prefflow">Code</a>. <br>
+
 Mikkola, P., Todorović, M., Järvi, J., Rinke, P., Kaski, S. (2020). <b>Projective Preferential Bayesian Optimization</b>. <i>In Proceedings of the 37th International Conference on Machine Learning - Volume 119</i>. ICML'20. <a href="http://proceedings.mlr.press/v119/mikkola20a.html">Proceedings</a>, <a href="https://arxiv.org/abs/2002.03113">Preprint</a>, <a href="https://github.com/AaltoPML/PPBO">Code</a>. <br>
 
 Mikkola, P., Martinelli, J., Filstroff, L., Kaski, S. (2023). <b>Multi-Fidelity Bayesian Optimization with Unreliable Information Sources</b>. <i>In Proceedings of the 26th International Conference on Artificial Intelligence and Statistics - Volume 206</i>. AISTATS'23. <a href="https://proceedings.mlr.press/v206/mikkola23a.html">Proceedings</a>, <a href="https://arxiv.org/abs/2210.13937">Preprint</a>, <a href="https://github.com/AaltoPML/rMFBO">Code</a>. <br>
