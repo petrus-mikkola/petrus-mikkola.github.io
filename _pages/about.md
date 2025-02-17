@@ -17,7 +17,7 @@ Prior to that, I worked as an intern at various national research institutes (VA
 -->
 
 <h2>Research</h2>
-My research currently focuses on probabilistic deep learning, particularly on learning from human data. At its core, my work combines random utility theory with modern probabilistic models, such as normalizing flows and score-based models, to create flexible representations of beliefs held by various oracles, including humans and LLMs. Key areas of interest include flow and diffusion models, elicitation (knowledge/prior elicitation, preference learning), and Bayesian optimization.
+My research focuses on probabilistic deep learning, particularly on learning from human data. At its core, my work combines random utility theory with modern probabilistic models, such as normalizing flows and score-based models, to create flexible representations of beliefs held by various oracles, including humans and LLMs. As an example, check this <a href="[https://people.aalto.fi/samuel.kaski](https://nips.cc/media/neurips-2024/Slides/93389.pdf)">poster</a>. Key areas of interest include flow and diffusion models, elicitation (knowledge/prior elicitation, preference learning), and Bayesian optimization.
 <br>
 
 
