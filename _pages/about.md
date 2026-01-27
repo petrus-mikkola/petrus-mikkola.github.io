@@ -13,9 +13,9 @@ redirect_from:
 -->
 
 <h2>About me</h2>
-For the first half of 2026, I am a visiting researcher at the <a href="https://indy.epfl.ch">INDY lab</a> at EPFL, led by <a href="https://indy.epfl.ch/grossglauser/">Matthias Grossglauser</a> and <a href="https://people.epfl.ch/patrick.thiran">Patrick Thiran</a>.
+For the first half of 2026, I am a visiting researcher at the <a href="https://indy.epfl.ch">INDY lab</a> at EPFL, working with <a href="https://indy.epfl.ch/grossglauser/">Matthias Grossglauser</a> and <a href="https://people.epfl.ch/patrick.thiran">Patrick Thiran</a>.
 
-My home base is the University of Helsinki, where I am an <a href="https://fcai.fi">FCAI</a> postdoctoral researcher working with <a href="https://www.cs.helsinki.fi/u/aklami/">Arto Klami</a> and <a href="https://lacerbi.github.io">Luigi Acerbi</a>. Previously, I completed my PhD at Aalto University under the supervision of <a href="https://kaski-lab.com">Samuel Kaski</a>. I also hold two Master's degrees, one in Mathematics and one in Economics, from the University of Helsinki.
+My home institution is the University of Helsinki, where I am an <a href="https://fcai.fi">FCAI</a> postdoctoral researcher in the groups of <a href="https://www.cs.helsinki.fi/u/aklami/">Arto Klami</a> and <a href="https://lacerbi.github.io">Luigi Acerbi</a>. Previously, I completed my PhD at Aalto University under the supervision of <a href="https://kaski-lab.com">Samuel Kaski</a>. I also hold two Master's degrees, one in Mathematics and one in Economics, from the University of Helsinki.
 
 <!---
 Prior to that, I worked as an intern at various national research institutes (VATT, Statistics Finland, University of Helsinki) and as a data scientist at few start-ups. I do consulting for <a href="https://soilwatch.eu">SoilWatch</a> on calibration and uncertainty quantification of soil carbon models.
