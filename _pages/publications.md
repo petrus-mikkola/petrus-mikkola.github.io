@@ -7,11 +7,11 @@ author_profile: true
 
 <h2>Preprints</h2>
 
-Mikkola, P., Acerbi, L., Klami, A. (2025). <b>Score-Based Density Estimation from Pairwise Comparisons</b>. <i>arXiv preprint</i>. <a href="https://arxiv.org/abs/2510.09146">Preprint</a>. <br>
-
 Erarslan, A., Salcedo, C.S., Tanskanen, V., Nisov, A., Päiväkumpu, E., Aisala, H., Honkapää, K., Klami, A. and Mikkola, P. (2025). <b>Consecutive Preferential Bayesian Optimization</b>. <i>arXiv preprint</i>. <a href="https://arxiv.org/abs/2511.05163">Preprint</a>. <br>
 
 <h2>Selected publications</h2>
+
+Mikkola, P., Acerbi, L., Klami, A. (2025). <b>Score-Based Density Estimation from Pairwise Comparisons</b>. (<i>Accepted to ICLR 2026</i>). <a href="https://arxiv.org/abs/2510.09146">Preprint</a>. <br>
 
 Mikkola, P., Acerbi, L., Klami, A. (2024). <b>Preferential Normalizing Flows</b>. <i>Advances in Neural Information Processing Systems  - Volume 37</i>. NeurIPS'24. <a href="https://papers.nips.cc/paper_files/paper/2024/hash/64e2449d74f84e5b1a5c96ba7b3d308e-Abstract-Conference.html">Proceedings</a>, <a href="https://arxiv.org/abs/2410.08710">Preprint</a>, <a href="https://github.com/petrus-mikkola/prefflow">Code</a>. <br>
 
