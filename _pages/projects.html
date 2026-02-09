@@ -111,23 +111,8 @@ layout: none
 								<font size="-0.5">Prompt LLM with simple comparative questions</font>
 								<img width="550" src="{{ '/projects_page/images/prompt_example.png' | relative_url }}" alt="Example prompt and LLM's response">
 								<br>
-								<font size="-0.5">Easy integration with <a href="https://github.com/VincentStimper/normalizing-flows">normflows</a></font>
-								<pre data-id="code-animation"><code class="python" data-trim data-line-numbers="3,4,5"><script type="text/template">
-									import normflows as nf
-									from prefflow import PrefFlow
-									q0 = nf.distributions.DiagGaussian(D, trainable=False)
-									nfm = NeuralSplineFlow(nflows,D,q0)
-									prefflow = PrefFlow(nfm,D=D,s=1.0)
-									for it in tqdm(range(max_iter)):
-										    #Sample minibacth
-										    batch = minibatch(dataset,batch_size,ranking)
-										    #Update flow parameters
-										    optimizer_prefflow.zero_grad()
-										    loss = -prefflow.logposterior(batch)
-										    if ~(torch.isnan(loss) | torch.isinf(loss)):
-										        loss.backward()
-										        optimizer_prefflow.step()
-								</script></code></pre>
+								<font size="-0.5">Diffusion model trained on comparisons — reflecting LLM's belief — resembles the true data distribution </font>
+								<img width="550" src="{{ '/projects_page/images/llm_prior.png' | relative_url }}" alt="Learned LLM prior belief and the California housing data distribution">
 							</div>
 						</div>
 					</section>
