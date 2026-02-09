@@ -93,13 +93,49 @@ layout: none
 					<section>
 						<div class="container">
 							<div class="text-section">
+								<h2>Score-Based Density Estimation from Pairwise Comparisons</h2>
+								<span><a href="https://arxiv.org/abs/2510.09146">Paper</a>
+								<p>We show how the underling probablity density (belief) can be elicited solely from pairwise comparisons of alternatives. Some applications:</p>
+								<ul>
+									<li><b>Prior elicitation</b>: joint prior distribution from expert pairwise comparisons</li>
+									<li><b>Reward modeling</b>: probabilistic reward model from user pairwise comparisons</li>
+									<li><b>LLM elicitation</b>: LLM's belief by prompting pairwise comparisons</li>
+								 </ul>
+							</div>
+							<div class="media-section">
+								<font size="-0.5">Learning the belief density (contour) as normalizing flow (heatmap) from rankings (numbers)</font>
+								<video data-autoplay controls width="550" src="{{ '/projects_page/videos/prefflow_demo.mov' | relative_url }}"></video>
+								<br>
+								<font size="-0.5">Easy integration with <a href="https://github.com/VincentStimper/normalizing-flows">normflows</a></font>
+								<pre data-id="code-animation"><code class="python" data-trim data-line-numbers="3,4,5"><script type="text/template">
+									import normflows as nf
+									from prefflow import PrefFlow
+									q0 = nf.distributions.DiagGaussian(D, trainable=False)
+									nfm = NeuralSplineFlow(nflows,D,q0)
+									prefflow = PrefFlow(nfm,D=D,s=1.0)
+									for it in tqdm(range(max_iter)):
+										    #Sample minibacth
+										    batch = minibatch(dataset,batch_size,ranking)
+										    #Update flow parameters
+										    optimizer_prefflow.zero_grad()
+										    loss = -prefflow.logposterior(batch)
+										    if ~(torch.isnan(loss) | torch.isinf(loss)):
+										        loss.backward()
+										        optimizer_prefflow.step()
+								</script></code></pre>
+							</div>
+						</div>
+					</section>
+					<section>
+						<div class="container">
+							<div class="text-section">
 								<h2>Preferential Normalizing Flows</h2>
 								<span><a href="https://arxiv.org/abs/2410.08710">Paper</a>, <a href="https://github.com/petrus-mikkola/prefflow">Code</a></span>
-								<p>The project studied a method for learning probability densities as normalizing flows using only preference data. Some applications:</p>
+								<p>We show how to leanr probability densities as normalizing flows using only preference data. Some applications:</p>
 								<ul>
-									<li><b>Prior elicitation</b>: joint prior distribution from expert comparisons</li>
-									<li><b>AI alignment</b>: probabilistic reward model from human preferences</li>
-									<li><b>Density estimation</b>: when the target density cannot be sampled or evaluated, but only relative information is available</li>
+									<li><b>Prior elicitation</b>: joint prior distribution from expert rankings or comparisons</li>
+									<li><b>Reward modeling</b>: probabilistic reward model from user rankings or comparisons</li>
+									<li><b>LLM elicitation</b>: LLM's belief by prompting ranking or comparisons</li>
 								 </ul>
 							</div>
 							<div class="media-section">
