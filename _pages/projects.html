@@ -100,7 +100,7 @@ layout: none
 								<div style="margin-bottom: 15px;">
 									<a href="https://arxiv.org/abs/2510.09146" style="text-decoration: none;">[Paper]</a>
 								</div>
-								<p>We consider the task of learning a probability density — representing an underlying belief (e.g., from a human or an LLM) — solely from pairwise comparisons. For score-based methods such as diffusion models, we provide a strong theoretical result that allows the problem to be cast as score-based density estimation rather than MLE. This enables the density to be learned as a (tempered) diffusion model, bridging the gap between preference learning and generative modeling. Some applications:</p>
+								<p>We consider the task of learning a probability density — representing an underlying belief (e.g., from a human or an LLM) — solely from pairwise comparisons. For score-based methods such as diffusion models, we provide a strong theoretical result that allows the problem to be cast as score-based density estimation rather than MLE. This enables the density to be learned as a diffusion model, bridging the gap between preference learning and generative modeling. Some applications:</p>
 								<ul>
 									<li><b>Prior elicitation</b>: joint prior distribution from expert pairwise comparisons</li>
 									<li><b>Reward modeling</b>: probabilistic reward model from user pairwise comparisons</li>
@@ -176,8 +176,13 @@ layout: none
 						<div class="container">
 							<div class="text-section">
 								<h2>Projective Preferential Bayesian Optimization</h2>
-								<span><a href="http://proceedings.mlr.press/v119/mikkola20a.html">Paper</a>, <a href="https://github.com/AaltoPML/PPBO">Code</a></span>
-								<p>The project studied a new type of Bayesian optimization for learning user preferences or knowledge in high-dimensional spaces. The user provides input by choosing the preferred option using a slider. 
+								<div style="white-space: nowrap; margin-bottom: 5px;">
+								    Mikkola et al. [<span style="color: #b30000; font-weight: 600;">ICML 2020</span>]
+								</div>
+								<div style="margin-bottom: 15px;">
+									<a href="http://proceedings.mlr.press/v119/mikkola20a.html" style="text-decoration: none;">[Paper]</a>, <a href="https://github.com/AaltoPML/PPBO" style="text-decoration: none;">[Code]</a>
+								</div>
+								<p>We studied a new type of Bayesian optimization for learning user preferences or knowledge in high-dimensional spaces. The user provides input by selecting the preferred choice using a slider. 
 									The method is able to find the minimum of a high-dimensional black-box function, a task that is often infeasible for existing preferential Bayesian optimization frameworks based on pairwise comparisons. Some applications:</p>
 								<ul>
 									<li><b>Preference learning</b> with an order of magnitude fewer questions than classical pairwise comparison-based methods</li>
@@ -196,7 +201,12 @@ layout: none
 						<div class="container">
 							<div class="text-section">
 								<h2>Multi-Fidelity Bayesian Optimization with Unreliable Information Sources</h2>
-								<span><a href="https://proceedings.mlr.press/v206/mikkola23a.html">Paper</a>, <a href="https://github.com/AaltoPML/rMFBO">Code</a></span>
+								<div style="white-space: nowrap; margin-bottom: 5px;">
+								    Mikkola et al. [<span style="color: #b30000; font-weight: 600;">AISTATS 2023</span>]
+								</div>
+								<div style="margin-bottom: 15px;">
+									<a href="https://proceedings.mlr.press/v206/mikkola23a.html" style="text-decoration: none;">[Paper]</a>, <a href="https://github.com/AaltoPML/rMFBO" style="text-decoration: none;">[Code]</a>
+								</div>
 								<p> Multi-fidelity Bayesian optimization (MFBO) integrates cheaper, lower-fidelity approximations of the objective function into the optimization process. 
 									The project introduces rMFBO (robust MFBO), a methodology to make any MFBO algorithm robust to the addition of unreliable information sources. Some applications:</p>
 								<ul>
