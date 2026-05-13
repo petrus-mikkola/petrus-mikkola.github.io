@@ -22,7 +22,9 @@ Prior to that, I worked as an intern at various national research institutes (VA
 -->
 
 <h2>Research</h2>
-My research focuses on probabilistic deep learning, particularly on learning from human data. At its core, my work combines random utility theory with modern probabilistic models—such as flows, diffusion models, and autoregressive transformers—to create accurate representations of the utilities and beliefs held by various oracles, including humans and LLMs. As an example, see work on <a href="https://nips.cc/media/neurips-2024/Slides/93389.pdf">normalizing flows</a> and <a href="https://arxiv.org/abs/2510.09146">diffusion models</a>. Key areas of interest include probabilistic deep learning, choice modeling, reward modeling, elicitation (knowledge/prior elicitation, preference learning), and Bayesian optimization.
+My current research focuses on probabilistic deep learning, specifically learning from choice and preference data, with primary applications in <b>LLM elicitation</b> and principled <b>preference alignment</b>. At its core, my work combines random utility theory with modern probabilistic models—such as flows, diffusion models, and autoregressive transformers—to create accurate representations of the utilities and beliefs held by various oracles, including humans and LLMs. As an example, see work on <a href="https://nips.cc/media/neurips-2024/Slides/93389.pdf">normalizing flows</a> and <a href="https://arxiv.org/abs/2510.09146">diffusion models</a>. 
+
+Key areas of interest include probabilistic deep learning, choice modeling, reward modeling, preference alignment, elicitation (knowledge/prior elicitation, preference learning), and Bayesian optimization.
 <br>
 
 <!---
