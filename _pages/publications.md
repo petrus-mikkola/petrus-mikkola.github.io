@@ -17,7 +17,7 @@ Mikkola, P., Martinelli, J., Filstroff, L., Kaski, S. (2023). <b>Multi-Fidelity 
 
 Mikkola, P., Martin, O. A., Chandramouli, S., Hartmann, M., Abril Pla, O., Thomas, O., Pesonen, P., Corander, J., Vehtari, A., Kaski, S., Bürkner, P-C., Klami, A. (2024). <b>Prior knowledge elicitation: The past, present, and future</b>. <i>Bayesian Analysis</i>. <a href="https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Prior-Knowledge-Elicitation-The-Past-Present-and-Future/10.1214/23-BA1381.full">Publication</a>, <a href="https://arxiv.org/abs/2112.01380">Preprint</a>.<br>
 
-Chengkun, L., Huggins, B., Mikkola, P., Acerbi, L. (2025). <b>Normalizing Flow Regression for Bayesian Inference with Offline Likelihood Evaluations</b>. <i>7th Symposium on Advances in Approximate Bayesian Inference - Proceedings Track</i>. AABI'25. <a href="https://openreview.net/pdf?id=lR0BGbw6hq">Proceedings</a>. <br>
+Li, C., Huggins, B., Mikkola, P., Acerbi, L. (2025). <b>Normalizing Flow Regression for Bayesian Inference with Offline Likelihood Evaluations</b>. <i>7th Symposium on Advances in Approximate Bayesian Inference - Proceedings Track</i>. AABI'25. <a href="https://openreview.net/pdf?id=lR0BGbw6hq">Proceedings</a>. <br>
 
 <!--
 
