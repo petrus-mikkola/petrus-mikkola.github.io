@@ -13,9 +13,9 @@ redirect_from:
 -->
 
 <h2>About me</h2>
-For the first half of 2026, I am a visiting postdoctoral researcher at the <a href="https://indy.epfl.ch">INDY lab</a> at EPFL, working with <a href="https://indy.epfl.ch/grossglauser/">Matthias Grossglauser</a> and <a href="https://people.epfl.ch/patrick.thiran">Patrick Thiran</a>.
+I am a research fellow at the University of Helsinki. I collaborate with the <a href="https://www.helsinki.fi/en/researchgroups/multi-source-probabilistic-inference">Multi-source Probabilistic Inference group</a> (led by Prof. <a href="https://www.cs.helsinki.fi/u/aklami/">Arto Klami</a>) and the Senses and Food group (led by Prof. <a href="https://researchportal.helsinki.fi/en/persons/mari-sandell/">Mari Sandell</a>). For the first half of 2026, I was a visiting postdoctoral researcher at the <a href="https://indy.epfl.ch">INDY lab</a> at EPFL, working with Professors <a href="https://indy.epfl.ch/grossglauser/">Matthias Grossglauser</a> and <a href="https://people.epfl.ch/patrick.thiran">Patrick Thiran</a>.
 
-I am a postdoctoral researcher at the University of Helsinki, working within the research groups of <a href="https://www.cs.helsinki.fi/u/aklami/">Arto Klami</a> and <a href="https://lacerbi.github.io">Luigi Acerbi</a>. Previously, I completed my PhD at Aalto University under the supervision of <a href="https://kaski-lab.com">Samuel Kaski</a>. I also hold two Master's degrees, one in Mathematics and one in Economics, from the University of Helsinki.
+Previously, I was a postdoctoral researcher at the University of Helsinki, working within the research groups of Prof. <a href="https://www.cs.helsinki.fi/u/aklami/">Arto Klami</a> and Prof. <a href="https://lacerbi.github.io">Luigi Acerbi</a>. I completed my PhD at Aalto University under the supervision of Prof. <a href="https://kaski-lab.com">Samuel Kaski</a>. I also hold two Master's degrees, one in Mathematics and one in Economics, from the University of Helsinki.
 
 <!---
 Prior to that, I worked as an intern at various national research institutes (VATT, Statistics Finland, University of Helsinki) and as a data scientist at few start-ups. I do consulting for <a href="https://soilwatch.eu">SoilWatch</a> on calibration and uncertainty quantification of soil carbon models.
