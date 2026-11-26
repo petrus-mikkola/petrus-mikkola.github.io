@@ -17,6 +17,8 @@ Mikkola, P., Martinelli, J., Filstroff, L., Kaski, S. (2023). <b>Multi-Fidelity 
 
 Mikkola, P., Martin, O. A., Chandramouli, S., Hartmann, M., Abril Pla, O., Thomas, O., Pesonen, P., Corander, J., Vehtari, A., Kaski, S., Bürkner, P-C., Klami, A. (2024). <b>Prior knowledge elicitation: The past, present, and future</b>. <i><font color="darkred">Bayesian Analysis</font></i>. <a href="https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Prior-Knowledge-Elicitation-The-Past-Present-and-Future/10.1214/23-BA1381.full">Publication</a>, <a href="https://arxiv.org/abs/2112.01380">Preprint</a>.<br>
 
+Erarslan, A., Salcedo, C.S., Tanskanen, V., Nisov, A., Päiväkumpu, E., Aisala, H., Honkapää, K., Klami, A., Mikkola, P. (2026). <b>Consecutive Preferential Bayesian Optimization</b>. <i>Transactions on Machine Learning Research</i>. <font color="darkred">TMLR</font>. <a href="https://openreview.net/pdf?id=R1ac8MpBt4">Publication</a>, <a href="https://arxiv.org/abs/2511.05163">Preprint</a>.<br>
+
 Li, C., Huggins, B., Mikkola, P., Acerbi, L. (2025). <b>Normalizing Flow Regression for Bayesian Inference with Offline Likelihood Evaluations</b>. <i>7th Symposium on Advances in Approximate Bayesian Inference - Proceedings Track</i>. <font color="darkred">AABI'25</font>. <a href="https://openreview.net/pdf?id=lR0BGbw6hq">Proceedings</a>. <br>
 
 <!--
@@ -29,7 +31,8 @@ Filstroff, L., Sundin, I., Mikkola, P., Tiulpin, A., Kylmäoja, J., Kaski, S. (2
 
 <h2>Preprints</h2>
 
-Erarslan, A., Salcedo, C.S., Tanskanen, V., Nisov, A., Päiväkumpu, E., Aisala, H., Honkapää, K., Klami, A. and Mikkola, P. (2025). <b>Consecutive Preferential Bayesian Optimization</b>. <i>arXiv preprint</i>. <a href="https://arxiv.org/abs/2511.05163">Preprint</a>. <br>
+Khorasani, S., Mikkola, P., Grossglauser, M. (2026). <b>Uncertainty-Normalized Margins for Direct Preference Optimization</b>. <i>arXiv preprint</i>. <a href="https://arxiv.org/abs/2609.38647">Preprint</a>.<br>
+
 
 <h2>Workshops</h2>
 
