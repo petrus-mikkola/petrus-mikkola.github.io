@@ -24,12 +24,11 @@ Prior to that, I worked as an intern at various national research institutes (VA
 <h2>Research</h2>
 My current research focus is on preference learning, with main applications in alignment/RLHF and food science. 
 
-In general, my research revolves around probabilistic machine learning, specifically learning from choice and preference data, with primary applications in <b>LLM elicitation</b> and principled <b>preference alignment</b>. At its core, my work combines random utility theory with modern probabilistic models—such as flows, diffusion models, and autoregressive transformers—to create accurate representations of the utilities and beliefs held by various oracles, including humans and LLMs. As an example, see work on <a href="https://nips.cc/media/neurips-2024/Slides/93389.pdf">normalizing flows</a> and <a href="https://iclr.cc/media/iclr-2026/Slides/10008047.pdf">diffusion models</a>. 
+In general, my research revolves around probabilistic machine learning, specifically learning from choice and preference data, with a focus on <b>LLM elicitation</b> and principled <b>preference alignment</b>. At its core, my work combines random utility theory with modern probabilistic models—such as flows, diffusion models, and autoregressive transformers—to create accurate representations of the utilities and beliefs held by various oracles, including humans and LLMs. As an example, see work on <a href="https://nips.cc/media/neurips-2024/Slides/93389.pdf">normalizing flows</a> and <a href="https://iclr.cc/media/iclr-2026/Slides/10008047.pdf">diffusion models</a>. 
 
 Key areas of interest include probabilistic deep learning, choice modeling, reward modeling, preference alignment, elicitation (knowledge/prior elicitation, preference learning), and Bayesian optimization.
 <br>
 
-<!---
 <h2>Community involvement</h2>
-I have acted as a reviewer for ICLR, AISTATS (awarded top-10% reviewer), Bayesian Analysis, UAI, TMLR, and IEEE TPAMI.
--->
+I regularly serve the ML community in peer review. I have acted as an area chair for ICLR and a reviewer (multiple times) for, e.g., NeurIPS, ICLR, AISTATS (awarded top-10% reviewer), UAI, TMLR, Bayesian Analysis, IEEE TPAMI, and the British Journal of Mathematical and Statistical Psychology.
+
